@@ -139,12 +139,13 @@ obt as (
             then extract(hour from t.created_at + make_interval(hours => c.timezone_offset_hours::int))
         end                         as ticket_created_local_hour,
 
-        -- nearest fund close context (partner-scoped)
-        nc.fund_name                as nearest_fund_close_name,
-        nc.scheduled_close_date     as nearest_fund_close_date,
-        nc.days_to_close            as days_to_nearest_close,
-        nc.total_committed_aum      as nearest_close_committed_aum,
-        nc.close_status             as nearest_close_status,
+        -- fund close context (closest close for this ticket's partner, within ±30 days)
+        nc.fund_name,
+        nc.scheduled_close_date,
+        nc.days_to_close,
+        nc.total_committed_aum,
+        nc.close_status,
+        nc.close_number,
 
         -- date attributes (inline)
         to_char(t.created_at, 'Day')            as created_day_of_week,
