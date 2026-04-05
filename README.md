@@ -26,7 +26,7 @@ The result: the IS team could tell you *how many tickets were open*, but not *wh
 
 
 ```
-git clone the repo. 
+git clone https://github.com/denironyx/titanbay.git
 
 cd ..
 ```
