@@ -1,0 +1,29 @@
+version: 2
+
+sources:
+  - name: freshdesk
+    schema: raw
+    tables:
+      - name: freshdesk_tickets
+        description: Support tickets raised via the Titanbay platform, managed in Freshdesk
+        columns:
+          - name: ticket_id
+            description: Unique ticket identifier
+          - name: requester_email
+            description: Email address of the person who raised the ticket
+          - name: requester_name
+            description: Name of the person who raised the ticket
+          - name: subject
+            description: Ticket subject line
+          - name: status
+            description: Current ticket status (open, pending, resolved, closed)
+          - name: priority
+            description: Ticket priority level (low, medium, high, urgent)
+          - name: created_at
+            description: Timestamp when the ticket was created
+          - name: resolved_at
+            description: Timestamp when the ticket was resolved (null if unresolved)
+          - name: tags
+            description: Comma-separated tags categorising the ticket
+          - name: partner_label
+            description: Free-text partner name (inconsistent, nullable)

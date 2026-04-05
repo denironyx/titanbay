@@ -1,0 +1,81 @@
+version: 2
+
+seeds:
+  - name: freshdesk_tickets
+    config:
+      column_types:
+        ticket_id: integer
+        requester_email: varchar(255)
+        requester_name: varchar(255)
+        subject: varchar(500)
+        status: varchar(50)
+        priority: varchar(50)
+        created_at: timestamp
+        resolved_at: timestamp
+        tags: varchar(500)
+        partner_label: varchar(255)
+
+  - name: platform_investors
+    config:
+      column_types:
+        investor_id: varchar(36)
+        user_id: varchar(36)
+        email: varchar(255)
+        full_name: varchar(255)
+        entity_id: varchar(36)
+        country: varchar(255)
+        created_at: timestamp
+        relationship_manager_id: varchar(36)
+
+  - name: platform_entities
+    config:
+      column_types:
+        entity_id: varchar(36)
+        entity_name: varchar(255)
+        partner_id: varchar(36)
+        entity_type: varchar(50)
+        kyc_status: varchar(50)
+
+  - name: platform_partners
+    config:
+      column_types:
+        partner_id: varchar(36)
+        partner_name: varchar(255)
+        partner_type: varchar(50)
+
+  - name: platform_relationship_managers
+    config:
+      column_types:
+        rm_id: varchar(36)
+        partner_id: varchar(36)
+        name: varchar(255)
+        email: varchar(255)
+
+  - name: platform_fund_closes
+    config:
+      column_types:
+        close_id: varchar(36)
+        fund_id: varchar(36)
+        fund_name: varchar(255)
+        partner_id: varchar(36)
+        close_number: integer
+        scheduled_close_date: date
+        close_status: varchar(50)
+        total_committed_aum: bigint
+
+  - name: seed_countries
+    config:
+      column_types:
+        common_name: varchar(255)
+        official_name: varchar(255)
+        cca2: varchar(2)
+        cca3: varchar(3)
+        region: varchar(100)
+        subregion: varchar(100)
+        primary_timezone: varchar(20)
+
+  - name: seed_country_name_aliases
+    config:
+      column_types:
+        source_country_name: varchar(255)
+        cca3: varchar(3)

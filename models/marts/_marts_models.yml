@@ -1,0 +1,101 @@
+version: 2
+
+models:
+  - name: fct_support_tickets
+    description: >
+      One row per support ticket with resolved investor, entity, and partner
+      context. Uses natural keys (UUIDs) from the source — no surrogate keys
+      needed because the platform data is already cleanly normalised.
+      Partner attribution via investor → entity → partner FK chain, with
+      fuzzy label match as fallback. Incremental (delete+insert) partitioned
+      by created_date_key.
+    columns:
+      - name: ticket_id
+        description: Primary key from Freshdesk
+        tests:
+          - unique
+          - not_null
+      - name: requester_type
+        description: >
+          'investor' = matched to a known investor (via email, RM email,
+          or name). 'unresolved' = no match (Titanbay IS staff).
+        tests:
+          - accepted_values:
+              values: ['investor', 'unresolved']
+      - name: resolution_method
+        description: >
+          How the ticket was resolved: 'email' (direct investor email),
+          'rm_email' (RM email resolved to their managed investor),
+          'name' (investor name match, different email), 'unresolved'.
+        tests:
+          - accepted_values:
+              values: ['email', 'rm_email', 'name', 'unresolved']
+      - name: has_relationship_manager
+        description: >
+          True when the ticket involves an RM: either the investor has an
+          assigned RM, or the ticket was raised by an RM on behalf.
+        tests:
+          - not_null
+      - name: primary_topic
+        description: >
+          Highest-priority tag from comma-separated tags field.
+          Priority: kyc > commitment > payment > e-signature > documents >
+          onboarding > fund-info > portal > access > account.
+      - name: topic_category
+        description: >
+          Business category: close_critical, compliance, pre_investment, platform.
+        tests:
+          - accepted_values:
+              values: ['close_critical', 'compliance', 'pre_investment', 'platform']
+      - name: resolution_hours
+        description: Hours from ticket creation to resolution
+        tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: 0
+              max_value: 8760
+              config:
+                where: "resolution_hours is not null"
+      - name: created_at
+        tests:
+          - not_null
+      - name: priority
+        tests:
+          - dbt_expectations.expect_column_values_to_be_in_set:
+              value_set: ['low', 'medium', 'high', 'urgent']
+
+  - name: obt_ticket_analysis
+    description: >
+      Fully denormalized analyst-facing table. One row per RESOLVED ticket
+      with investor, entity, partner, geography, topic, and nearest fund
+      close context pre-joined. Zero-join self-service analytics.
+
+      Excludes ~98 unresolved tickets (Titanbay IS staff @titanbay.com)
+      that have no investor context. These are preserved in
+      fct_support_tickets for completeness. The OBT is a curated
+      analytical view — every row has a known investor, entity, and partner.
+      Incremental (delete+insert) partitioned by created_at::date.
+    columns:
+      - name: ticket_id
+        tests:
+          - unique
+          - not_null
+      - name: investor_timezone_offset_hours
+        tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: -12
+              max_value: 14
+              config:
+                where: "investor_timezone_offset_hours is not null"
+      - name: ticket_created_local_hour
+        tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: 0
+              max_value: 23
+              config:
+                where: "ticket_created_local_hour is not null"
+      - name: investor_lifetime_ticket_count
+        tests:
+          - dbt_expectations.expect_column_values_to_be_between:
+              min_value: 0
+              config:
+                severity: warn

@@ -1,0 +1,11 @@
+/target/
+logs/
+dbt_packages/
+dbt_pkgs/
+logs/
+__pycache__/
+*.pyc
+.env
+profiles.yml
+INTERVIEW_PREP.md
+EVALUATION.md

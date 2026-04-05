@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: country
+    schema: raw
+    tables:
+      - name: seed_countries
+        description: Country reference data sourced from restcountries.com API

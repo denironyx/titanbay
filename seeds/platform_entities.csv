@@ -1,0 +1,773 @@
+entity_id,entity_name,partner_id,entity_type,kyc_status
+f79b1601-4476-4ce0-a1a5-c558243f94e9,Alexander Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,expired
+e4cfed82-1c35-456d-9868-c57e61d56e4c,Collins Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+469971e2-31ac-49cb-b1eb-87fd42637b48,Johnston Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,expired
+fb8de1ba-6829-4d3c-9154-1b462c9b0edb,Sullivan Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+7d6e30f6-7e70-40c1-a666-7b1b32416a22,Edwards Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+f803707d-1872-4385-b157-0d948c5bedbf,Kelly Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,pending
+8a78b524-2922-483b-90ae-e83dc1f4133f,Morley Capital Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+50645b73-42d0-4486-81fb-8410f5e01533,Young SIPP,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+32500154-1bb1-4d8b-990a-e0e80dfe276a,Graham Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,expired
+db0e4d0c-d3db-458f-aea3-55cddbbc3e8a,Wilkins Retirement Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+3fd468bf-1373-4bb0-9135-2b9f815b47f6,Davidson Holdings Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,rejected
+ab84ef29-70d7-4f67-90ef-2573a3f83599,Morris Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+1f869d89-8d0d-4fe9-b041-f3cc292aeed3,Powell Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+83b34014-8d21-4781-93b1-d94ee100309d,Morris Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+c4a29ec4-43c2-4967-b9dc-15b3f06f8c7c,Rowe Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,pending
+192b1292-d510-48e0-aa6e-754b6a8d1349,Jackson Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+ff70ce9c-e25b-4d7f-bbd0-5fadb0dedc9c,Evans Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,pending
+b9445062-e5e7-43c4-837b-1db2c4ebbf74,Turner Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+b50badaa-a466-4c88-b7c0-b3071e6b51bd,Khan Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,expired
+bd6044d3-fc78-46b5-a884-df82cb2a0af7,Hughes Investments Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+9a354a3d-167c-4364-a904-fa2d9b1a7f4c,Davey Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+b4350670-bf57-4721-b18f-7237e0e701c2,Taylor Discretionary Trust,329b3776-ad36-4f85-b9df-772610528241,trust,expired
+86a8aab7-4a25-4f32-b122-ba17374e35d5,Gould Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+1cb33a68-13c6-4043-8158-182cc3d96256,Walsh Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,expired
+f85fb15f-dc86-4a43-905d-36f393795c3f,Davies Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,expired
+55c3e6e1-cdd1-4db4-8033-84d14721b10e,Anderson Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,pending
+8909f6db-28a1-4ebd-a76c-126d1e2503e6,Cooper Holdings Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+77d4b1ac-58e9-4546-8085-f4163171b399,Wright Retirement Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,expired
+0af86286-08e7-4df7-b1c1-b344b001d627,Jones Investments Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,rejected
+1ca96709-67fb-4f5c-b426-43401befb79e,Smith Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,rejected
+a8b78255-69ba-413f-b4e6-ca4059827dd7,Fisher Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+ef84439e-c732-472a-ab5e-9e26a98bf16c,Hewitt Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+f7f774f4-9747-4514-8317-ccdb765cd5ce,Davies Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,expired
+16ffb943-ac11-4d8e-8e6a-ae596d4c146f,Clark Retirement Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,expired
+dd414323-6440-438d-ac33-ed7691e10365,Young Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+bf9455f7-2330-4004-a9e2-83fa8b3f7fc0,Myers Holdings Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,expired
+676e248a-709a-4777-bc32-ad9511384d8d,Read Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,pending
+e10600cb-3236-4c3e-8589-ee6c3d0c3996,Cook SIPP,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+04c08124-0d7d-4eba-9f9b-0b168d27618d,Harris Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+e5dfef51-fc5b-4888-bc50-553e989f8935,Steele Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,rejected
+c6f41e69-5e6b-45b8-b949-ebf7c2801c52,Harper Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+73a394ca-bc21-40cd-ba4d-4246c334ced8,Atkinson Capital Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,pending
+5299802f-9bfc-4077-8ba5-923d207d9d1b,Peters Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+c6b0e0dc-71ee-4524-8366-84bc667616a5,Page SIPP,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+859e9d68-802e-4a4e-9c2c-4f4487eb953a,Carter Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,expired
+31a89254-6947-4cbd-9f56-c5b3e1e0ef94,Buckley Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+9a9682b7-4a62-4144-af9f-a11b3aa7b41d,Dean Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+dfd94676-4266-478c-a954-4bff9f5967b4,Johnson Capital Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+1dfdd387-5276-4f4d-9852-cd6a55ca15a7,Gray Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,rejected
+76c4c220-0c9e-4c79-a7eb-daf6ba75c320,Buckley Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,rejected
+5af36f79-9eac-4139-bb7c-079f626a9bd5,Ryan Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,pending
+19712804-541e-45dd-8ab5-7f5688bd26e4,Patel Holdings Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+ea66e3b9-9237-4043-8050-aae1e83a7b85,Wade Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,pending
+4f42cb5a-095b-4847-a1e4-e0518c7b7b45,Watson Discretionary Trust,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+e5b7df91-6eb3-4442-ba80-12b3eb37b659,Preston Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,rejected
+97135ac5-0d5a-465d-b9fb-e173f8e53aac,Bell Family Trust,329b3776-ad36-4f85-b9df-772610528241,trust,approved
+796bbc49-6fec-4ad0-bb92-81a36b4c79bf,Anderson Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+304b0a12-67e5-436f-b08b-263712dbc0b7,Jones Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,rejected
+fcc52e28-80c6-4214-93cd-9677f5cfd564,Griffiths Holdings Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,expired
+7e79e914-b8ac-4781-ae0d-d15178c49b80,Evans SIPP,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+2c544b9e-bd0c-4b63-b776-62f4ed7c8681,Robinson Settlement,329b3776-ad36-4f85-b9df-772610528241,trust,rejected
+8dd1edd7-3975-45f6-9ac7-790238eb2ce4,Gough Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,pending
+f2efff92-0362-4473-9309-619f93406045,Smith Investments Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+a622f1c1-085a-4778-ae4e-9d540a8c4086,Smith Discretionary Trust,329b3776-ad36-4f85-b9df-772610528241,trust,pending
+9e913b65-df21-4a6a-b6e2-b637dde117c4,Swift Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+a77414b3-b024-462f-917c-14b7ab95401d,Ferguson Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+7e813075-6e47-41b3-ab92-8d8069f01413,Chandler Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,pending
+d8f6eb10-8189-40a0-b10f-19b7d2144da9,Sharp Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+810b7085-5551-446e-8850-bb3332c16478,Stewart Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+e80b3064-3d44-4efe-ad42-ef7e3ef40a57,Kent Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+534b4faf-c31b-4b58-bb1d-a793520606ef,Harvey Investments Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,expired
+b0748b26-c902-4602-80b1-322f81a89a13,Knowles Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,pending
+7c8c5e5e-c32f-4dc6-84b7-1de1872a85cf,May Capital Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+a063c5fd-03e2-481c-914d-5215d791e6e8,O'Brien Retirement Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+913cc7e8-c008-4719-9a35-5cd4ccccaf7b,Hill Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,expired
+129e7c78-85b2-4f5e-98f1-919f9e836c5b,Jenkins Retirement Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+a5eda9ee-ea8a-4c6c-a860-b30e4a524788,Arnold Retirement Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,rejected
+63b34851-9e7f-45bf-bd14-55344bab322d,Murray Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+c01456de-882b-41d3-8582-4c1c7c7dbaa5,Mitchell SIPP,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+488af932-698a-4bf5-9bd2-54f88049f92b,Marshall Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,approved
+7430ba72-5103-40f7-8156-65dd6ba2d729,Edwards Capital Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+359b42ea-d4b9-49ae-b9c8-dcfa0fb26579,Matthews Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+3d0cb120-5afe-4d1c-b456-93afa6717399,Davies Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,rejected
+c205ea09-d8fb-472d-840d-7cb7fb2f6af9,Patel Investment Account,329b3776-ad36-4f85-b9df-772610528241,individual,rejected
+9036005a-9f72-4752-a6c2-e2f025e8ef48,Lyons Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,expired
+1d65b341-113f-44dc-a9a7-42f1faad48ad,Price Personal Account,329b3776-ad36-4f85-b9df-772610528241,individual,rejected
+5c170bac-20c4-45f3-9976-d542fc7a422e,Smith Holdings Ltd,329b3776-ad36-4f85-b9df-772610528241,corporate,approved
+5cda32fa-b61a-4cd3-9059-3280130710f2,Collins Retirement Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+5b969a6c-a38f-486b-8dcf-bd558e3938f2,Brown Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+888029d0-75fa-4c23-b61f-06b15fd5fcff,Naylor Pension Fund,329b3776-ad36-4f85-b9df-772610528241,pension_fund,approved
+0b5d8f53-d25c-4ccc-894b-4f5fe05b0629,Fox Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+0a93c3ab-3439-4834-ad1d-05701ba9aa9c,Bailey SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,expired
+8274ff78-0c5d-4412-90ac-2b0a1228d387,Walters Pension Fund,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,approved
+915699a3-6125-4d13-9aad-5b2fe32b053e,Howard Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+bbe1f929-bc8c-4dab-9840-f97ee0966f26,Townsend Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+ba0c38b3-4fdf-4b31-be9a-83fdd6017020,Higgins Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,pending
+a3a8b6d9-59d5-4691-95d5-cbe069d4b89e,Butcher Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,pending
+909d08b7-8a7a-44b8-afd0-1eb52e49d852,Lewis Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+6f1eb3bf-859b-4ee6-9375-09756eca2390,White Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+4f482a56-a033-457a-a26a-fc273903b09c,Jones Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,pending
+49f7769e-b5e7-4acd-bd6f-231022f6ba34,Powell Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+a0d10040-ffce-4b29-8368-fb8edd789243,Wood Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+e59b3319-4b3a-48a2-a39e-08cbb1ea4b85,Young Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+c1706941-e6d3-4b3b-a9d1-f526d827dcd9,Allen Pension Fund,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,expired
+952d28b1-fe5a-4b9d-bad3-87eb28804304,Smith Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+8efd791d-4456-4f05-8015-3a1ce8d4d855,Jones Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+541e1ee1-a179-4829-8f09-80e6c0f41bbb,Rowley Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,pending
+7f6964a0-58f5-4461-8cf5-4ff7ded26624,Green Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+656564f5-ed38-4a1d-b2bd-d8d34094e7a0,Slater Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+5604560f-5bc3-478e-8897-aba771cf589a,Nixon Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+a1520769-b8df-45c5-b654-e9d3bea4c8fe,Ali SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,expired
+7aa4ae9e-7cd4-4b53-83ff-9001891eeb3a,Taylor Settlement,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,rejected
+a99e34f7-59c6-48dc-9470-efe6df3e0a4f,Holloway Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,expired
+487f329d-8b09-426d-beb8-223ee550ffb4,Lambert Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+3addaa3d-199f-423d-a644-18e7dc7a31e3,Willis Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,expired
+2f0c4e8c-592a-4f81-8851-d82d349f9d7a,Long Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+e00490d4-6189-48a8-a734-2e59d9c13f80,Briggs Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+d3014cec-3518-438b-8784-c98703c6706d,Roberts Settlement,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+099accc3-c3c9-4a53-a3cc-038462ca810b,Griffiths Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+9d623775-7976-4ec1-9712-2fe61faa42f2,Bates Retirement Fund,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,approved
+2297181c-43a4-421a-85a5-913f2f32a3ef,Wilkinson Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,rejected
+75352b4e-6db7-4aeb-94d4-24dc3b729f90,Davidson Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+b5face3d-e913-499c-8d7e-be9882d07a5b,Akhtar SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,expired
+da04d1b8-cf35-403e-99ca-325eb2395375,Hall SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,approved
+24cff00e-54c8-4980-a2d6-435976ac5f06,Gardiner Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,expired
+00f018dd-0695-4b90-9925-46883835b277,Tucker Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,rejected
+c705d77a-ffce-4cc5-ad36-3ffb21e59bc5,Mann Settlement,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,pending
+ef58139e-9732-4942-b8b3-b970935e1e3a,Davis Capital Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+645d385f-2f81-4076-a0ed-cab9e0ebb755,Gibson Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+f28bb13d-083f-464c-8bf5-f5d20dac37e4,Riley Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+48ca924b-d703-416d-b424-9e8cd1c0b750,Henderson Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+4f855444-2f6c-4194-858a-c27fc1c91e01,Brown SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,expired
+cdffa476-b4a8-4633-8636-0ad92d799d4b,Green Holdings Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,rejected
+5a8a83d7-ac44-4928-bfdd-6829d577aa25,Mitchell Holdings Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+d670fddd-8c6f-4e9c-8349-a8ce5e701889,Smith Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,expired
+6281b572-6c05-4d1a-a6b3-e4250519b789,Stevenson Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,rejected
+2eb92887-8d9f-4a7c-b963-cfe0b1e7f702,Jones Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+2c8d772d-4d12-418d-b265-150625b6bb8f,Taylor Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,rejected
+e4b7c146-abec-4133-82b6-593bf1cee93e,Poole Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+4e790b82-c130-44fe-956b-23d34ee45eeb,O'Brien Capital Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+a8ef66c5-5691-4c59-a477-af5978bc9d4c,Metcalfe Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+643149b6-3dcd-4df1-b151-80e78e884ec6,Black Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+7f79b6b5-d117-4319-a691-422869ce8abc,Bennett Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,rejected
+41f12719-0e29-404e-906c-64a525902232,Thornton Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+4152d97b-58e0-4f0a-80df-c75fbcf88463,Hussain SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,rejected
+c70c5d76-dc5b-4a5f-909c-ae37ab0fb887,Booth Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+63b20d8b-3099-4f7f-b865-5772f71d689a,Elliott Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,pending
+b7c06bc0-72bb-4eef-bae2-a2e006859c1b,Gill Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+e410cc1a-fe35-49fc-8845-fda717b2eded,Adams Retirement Fund,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,expired
+b0c2370c-6176-4eba-b854-f90704d3297f,Jones Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,pending
+7e19c7f1-1790-48a7-aaab-2fd9918d6d8e,Barrett Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,pending
+2ae2c4a0-6c2f-4974-af0d-4f5b85142f1c,Lloyd Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+198f0cf0-734d-4941-bd9d-5dd5e9216e08,Howard Pension Fund,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,pending
+95047bd0-8fea-4e08-85a9-de34ddb37e07,Newman Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+e64e0b00-a25f-40f7-869d-166c95d62520,Long Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,pending
+d7f6bf5f-01da-49d5-a0a0-97209f4c158e,Sinclair Settlement,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,rejected
+0d3922e7-3f43-458d-9e60-fd00d109947a,Parker Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,pending
+13bc4b78-87a2-40b7-a3da-f16f57c4ebf4,Jones Settlement,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+a15416ce-0f02-412f-88a2-822dceff08c1,Bell Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,expired
+d505b096-04a8-4b1a-a1d5-e0e8c2682983,Hill Settlement,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+9c3d6b69-126e-441f-b702-0540e12d3417,George Capital Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,expired
+3bb29874-230a-4508-b145-8668c6c8a399,Buckley SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,expired
+6a720142-dc4c-427e-8238-5e5e1d7b3749,Barton Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+1ad7deda-33f0-411c-897c-869a7fc6e4e1,Rees Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+1fca0d58-e902-413d-a9bf-39796a375156,Townsend Capital Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,rejected
+d19defda-c986-4141-ae3d-bc7715dd65cc,Taylor Discretionary Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,approved
+0a2fa191-14ef-4c12-a187-4a7e150a1085,Ahmed SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,approved
+cc2a221e-d7f9-46d5-ab60-02d8f4f9cb6f,Howarth SIPP,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,pension_fund,approved
+9796eeed-efb4-426b-86ac-1d5a4340d60e,Pearce Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,pending
+41499e3d-5fe0-4d04-b2b6-59865ccfd315,Jackson Family Trust,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,trust,rejected
+17a59c27-a247-47a4-8d5a-a12576fb738e,Thomas Investments Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+ea61ec18-fcc0-451a-874b-f87b11327d35,Reeves Holdings Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+d7779237-d64a-49fb-a33f-56063d913551,Moss Personal Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+a8a39972-19ec-4f6c-8dc3-d52ba1cf1bcf,Armstrong Investment Account,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,individual,approved
+a00f64a1-a775-4031-bc98-7e08cf558dad,Saunders Capital Ltd,d8c700a9-a81f-4e73-8a73-9391eac6b4e8,corporate,approved
+8e7182cd-4dce-4f41-a0cb-1b1e4c5d416f,Smith Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+84604078-3238-40a0-94ed-54b68cd20e32,Davies Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,rejected
+8e43fc28-0609-48e0-a792-07f7c1a83e47,McLean Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+7af02ce5-79ae-4039-8021-faff195275d3,Phillips Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,pending
+23a75a10-8af0-4860-9471-80283c52be85,Clarke Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+eb7db4a9-ee16-458a-abee-c2f2961224d9,Berry Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,expired
+d6aa6e27-0690-4d43-8df2-79a7ce14cbb5,Murphy Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,pending
+e8fcd4a4-d159-4793-a244-076ce25d8c5c,Murray SIPP,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+b26ab56c-b043-47fc-8bfd-4584019b29fa,Hudson Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+514a1fa0-f60d-4659-b9a0-e8617128311a,Bailey Family Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,rejected
+bcca058e-a552-45c1-9eee-6cf1661b479f,Johnson Settlement,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+04785675-ffdb-4ad8-8139-3c65906010e9,Moore Investments Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+620b17e8-8ea9-42ed-8605-2d463b3b0cb7,Spencer Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+28b8e4b4-1fa0-4fb4-93e5-f55707c59f00,Powell Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+2f9747de-e55b-4743-8f71-c37f05c95f95,Lowe Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+9570dc16-65d2-41e3-b3ff-9f3618d23d2f,Daniels Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,expired
+2c566349-97de-4af2-9a10-e8251154b56c,Stone Holdings Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+37e71a9f-7413-46ba-a5ed-cd2f96897774,Rees Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+8677e0d3-59a3-4d20-aa0b-ae1fe1087a2c,Smith Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+9e885870-7e62-4ba3-a461-1f4c82ea533a,Kirby Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+a5b492c8-08ad-4a65-a74c-ed95e512b1d2,Williams Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+9a3e8ecd-e1b6-4f61-b384-251afa5b73ff,Dunn Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+70d54ab5-0534-4ddf-9db3-b96f178372b1,Stokes Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,pending
+ff70edc0-2da9-46a8-968d-5047058f389f,Robinson Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+00282387-b598-4e8c-b0fb-c8490ac0e702,Gough Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+4950288f-8385-4fb4-82fe-12325d972f38,Hill Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+989b9488-97c4-46ef-8541-3bea307b1ec1,King SIPP,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+30d7553a-e34e-4241-a314-2a0e14c9062f,Duffy Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,pending
+563016a4-581b-471f-b559-767d6c279c2a,Begum Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,pending
+92ea57d0-e787-4709-8904-e31af38a0e9e,Webb Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,expired
+60d62987-99c0-430f-9370-5c7d1f50e8fb,Shaw Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,rejected
+c46910b8-62ff-4164-841d-81bd34d8fb6e,Pritchard Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+b81a70da-c470-4b58-8ecb-9bb9ba4fc8b5,Ball Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+0b0d03b9-14b0-453b-abd6-76bac335c2c5,Cox Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+59b7b50c-3854-44e0-9ecf-e72d462c9a88,Bryan Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+f7d0da1c-86bf-4def-8500-6f43212008e0,Bird Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,rejected
+6a016243-8634-4e28-95c1-62724b2e84cd,Kelly Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+05f288be-9f06-4f77-bf9d-0a5597bd34ba,Ward Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+c5111fbc-419c-4b1e-ac19-ac423d093444,Holmes Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,rejected
+5210068b-b8d7-42b0-a748-23aab5536825,Davis Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+1298a62d-0d07-419d-b38a-2190748d5e75,Lowe Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+8a8e7dc8-dd34-4327-9a44-4411a622b6e4,Smith Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,expired
+1345bc69-5a5f-4738-8b1d-33299af486d9,Walker Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+a2a92f18-2950-4d90-819e-70e9af3beca8,Bentley Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+624d7624-0931-4e7c-a265-d907e23ea261,Thomson Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+897cd71b-bfff-46cf-9556-e773354497a9,Norton Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+07b40646-07d9-4ce9-aa8d-21faa178d54e,Thomas Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,expired
+a6f1d9b8-5967-4d80-b5b0-cfe15dd0885d,Shepherd Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,pending
+3324c17b-a9f8-4420-ac8d-78b2a0211420,Clarke Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,expired
+abd39385-1c91-42eb-b2f2-e2ae6f3343be,Robinson Settlement,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,pending
+04fddd70-9b2e-403e-87a9-4b0c47459bcd,Wade Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+ef204487-052b-4e8c-aa9e-13b5b23afb7c,Williams SIPP,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+91f3d7a0-853c-44f1-b315-dc72405cc302,Cole Investment Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+c5df7b2b-80cc-4bfe-9c8f-5711885bb63c,Moore Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+3494d3b6-7ce8-4cb0-a700-cbda92c58b80,Clark Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,expired
+6313e4a8-4707-49b9-8a1a-2f2f65791996,Harding SIPP,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+b940c399-f2be-4205-a501-2e686dbaa758,Marshall Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,expired
+2a9a5c41-5f2e-439f-a814-dbf94c1bd15d,Bray Settlement,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,rejected
+f87bf705-85fa-4da2-93d0-759fbfa3bcf9,Fowler Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+7a13384a-8dfc-484f-adbc-4cbcdce91dbf,Connolly Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,rejected
+7751066a-4463-46ab-918b-9b906da85c43,Fisher Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+db580aff-63d2-4b97-b9e2-d20233759edd,Sykes Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,rejected
+f0d3fba0-33f6-4924-999f-22df9d5bed50,Thomas SIPP,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,pending
+3ae8a4e5-a8e6-4540-a2e7-56a15bf37862,Hargreaves Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+7fa3c85c-0363-4907-993d-af883af782ad,Begum Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+947f1943-6d52-4569-ae0b-2405359263c3,Page Pension Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+fc1e6511-8690-4563-9467-cbd966639e97,Thomas Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+927dda29-ad2b-4c77-8fd7-3b252bab50a3,Evans Settlement,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+d3db2b05-73a4-4163-8958-2e2238ca27d8,Richardson Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,approved
+a5b4e638-f9b5-4fb9-aabf-29414bafc124,King Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,pending
+ddcc3b91-be10-40e3-8f6e-e1f277edcace,Nixon Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,expired
+f1cf8339-9356-4315-b03c-aae129172a1a,Moore Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,rejected
+84687f53-90ba-4af5-bdf4-8f3410aff6c2,Gardiner Personal Account,fccd4c9b-212a-40e2-855c-9633c65670f0,individual,approved
+a4c11d9d-d33a-4c94-acfa-63f66998bb29,Simpson Capital Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,expired
+2867d7cc-b8d8-42c6-9579-d68d25b98316,Morris Investments Ltd,fccd4c9b-212a-40e2-855c-9633c65670f0,corporate,expired
+4544aa57-4f4d-4319-89d6-98453dbed5d4,Bennett Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,pending
+d2f25898-d5c6-4472-80b5-8732a09fe6ef,Smith Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,expired
+a0a0d878-7a40-430e-bff3-8a4ded6a33d1,Marsden Discretionary Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,expired
+25ac7ae6-2ef5-4877-9ec0-1ca7a9e6b3e0,Roberts Retirement Fund,fccd4c9b-212a-40e2-855c-9633c65670f0,pension_fund,approved
+ac3fc9f8-b0f2-4dbe-a503-f4a3a81c43c9,Williamson Family Trust,fccd4c9b-212a-40e2-855c-9633c65670f0,trust,approved
+5dd19b12-5de1-4a43-8574-799e985d96dd,Ali Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+99b8e49e-72cf-468e-9942-85c1dc5cfdce,Gardner Holdings Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+3af9dac8-9141-42c1-8f53-8c3f29968461,Bennett Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,expired
+27bfbf3c-8c9d-4896-ae3b-d98516fa60cd,Gill Family Trust,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,rejected
+617eaa91-1f57-4f9e-948b-c8495a74b135,Ali Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+6da522dc-cd46-4e23-9e38-7d2ec591894e,Davies Family Trust,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,approved
+4db7b47f-c64c-45ac-92cb-348591e6c3ae,Newman Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+354d7e2b-6740-49ad-a89a-dcd43199ab29,Smith Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,pending
+8b5d3651-d42f-4aca-8f9e-2d301787750b,Walsh Settlement,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,approved
+acb24a37-c26d-4730-b4c8-597c7ac00138,Harrison Pension Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,rejected
+5c783f9d-c442-4d9c-8b34-5096db429682,Cooper Investment Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+51cc5a9f-91b6-4898-8d43-807f9b872fef,Thomas Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+a3cc4d42-6f79-47be-a3ab-8bf909a9eb04,Jones Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+66dedbcc-b8a9-4cfb-8850-12494dac0ec9,Ryan Pension Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,rejected
+f3c47bd4-ee5e-46da-90e8-93cc95007561,Bell Investment Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+d021d518-37cd-4f1d-a2bb-944b2cec1aea,Stone Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+da687002-1a1b-42cf-a779-665df1508e02,Perry Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+549291ba-ff44-46de-b6c3-5270e281e5b3,Carr Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,pending
+caedf62e-6214-47c7-a9f4-157d20891828,Wilson SIPP,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,pending
+94dbcad6-9d7e-4807-b51b-7c7c4b4f9e02,Knowles Capital Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+0586cc81-9fa7-462a-91f6-6b3232ea9b48,Matthews Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,rejected
+766c85e2-05a1-4148-9ad0-d3968a11fc17,White Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,pending
+48ec2643-0bf8-4568-bbe1-ec60ddacb55f,Rees Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,rejected
+47189bc1-28d4-446f-b218-006e5640ea65,Griffin Holdings Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+8ee19736-0f8c-4293-8824-048f1466d6d0,Parsons Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+4afddc1f-589c-4fe6-adf2-c2335d9dff89,Bond Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+7a58256a-a9a5-43a6-a7ba-88b2727cc411,Davies Investment Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+ea436a5f-f136-4d8f-a281-b352ff507d6d,Watts Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+e8ab6ff4-16c2-48fe-adee-bccf5ec26449,Fry Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,expired
+16fa99a2-2a37-4945-b9a2-8ec3aacbae07,Day Settlement,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,rejected
+d754bfd7-a5cb-4669-97ef-e945d1060ffe,Shaw Pension Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,expired
+cf2e4d0f-9697-4296-9788-b019dd82ec60,Smith Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,rejected
+0276251b-9ae5-437e-964c-97027584c95a,Jackson Capital Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+d282ff76-2edf-4167-a445-cf105209479f,Robinson Holdings Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+cb19c541-2e05-432a-8d57-c507ec48bf20,Thomas Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+66426169-aec5-4496-beb0-934dbe1bca5c,Anderson Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,pending
+83dfbb02-c001-481e-bfa4-f201f069c418,Ward Discretionary Trust,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,approved
+741c490a-80c5-4c87-ae18-74e85fe61f90,Fitzgerald SIPP,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+26d1db6c-5378-4ee4-83ce-8ce1b7d9a8d2,Williams Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,pending
+30afe0cb-4c9f-4382-9245-1a375d9088b7,Robinson Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+e79fde94-15bc-49e5-ba8f-846598b5704d,Clark Investment Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,expired
+1a4f09fa-2d6c-488b-a12d-dd41d9f8b585,Sutton Settlement,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,approved
+1a21e878-bb88-4148-8a12-2404989be487,Bates Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+4c407c9e-896f-467a-8e2c-7741835dbd8e,Thomas Investment Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,pending
+14f3f96e-f82f-4495-b033-4ae76f1d35d9,Williams Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+348e8838-b196-4297-ac3e-97fac9adfe7d,Reynolds Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+8e6087e6-96e2-4f8e-a0ce-c3f5b3526df7,Forster SIPP,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,rejected
+1a76c102-aaf1-4012-b97c-f0634665ba05,Holmes Pension Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+3b34219e-f216-42c1-9c68-bb2cd7cfd79d,Singh Discretionary Trust,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,approved
+8e8032b4-f365-424b-b382-2395d8f92753,Pratt Settlement,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,approved
+4f0a2eb3-6bd2-4672-95af-6961ce506aa8,Chapman Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+32a43922-1c7e-4535-a479-bde71734d704,Williams Retirement Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,expired
+01f6f755-a6e1-4ec5-8409-6668b6ee7d5d,Wells SIPP,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+974c22f7-8acb-4580-bde3-a020e4fc2c65,Wall Pension Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+931a9933-6ca4-4740-b345-f2b26d2d6c75,Johnson Discretionary Trust,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,approved
+eb0ee131-4fd0-4f9e-8ce0-e8cfbe890226,Adams SIPP,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,rejected
+a1cbfec7-1cf3-4a9c-85a3-bbb73afeb048,Harvey Investment Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+4994ab03-f683-4cbb-aa80-687f2b3aa1ff,Lyons Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,pending
+dea2620f-c4ce-4f3e-b75a-d2cf36297e24,O'Sullivan Settlement,646321a5-ccbc-445a-8c04-c797aa3a8200,trust,rejected
+459a7681-8aa8-46d0-acde-57c860a951d7,King SIPP,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+0e3f6167-76e9-4053-901a-ce217f25edb5,Rose Personal Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+b405e13c-cf33-45ed-996a-cd1d11bf49af,Harrison Investments Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+7ea8e484-82aa-46d0-b5a6-139b78ce877f,Naylor Pension Fund,646321a5-ccbc-445a-8c04-c797aa3a8200,pension_fund,approved
+844bcb4a-e937-4437-b40a-58fd365516e9,Lucas Holdings Ltd,646321a5-ccbc-445a-8c04-c797aa3a8200,corporate,approved
+8a55b6e5-0db5-432c-a09d-63513bc27b1f,King Investment Account,646321a5-ccbc-445a-8c04-c797aa3a8200,individual,approved
+105975c2-43ee-424d-8807-a818a7bdf954,Lamb Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,approved
+4058c480-96f0-476e-b4a2-3329a6b021e2,Morris Personal Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,approved
+0535d690-6969-4ba6-8cd3-6568af8e4080,Coleman Settlement,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,expired
+f66a45b9-c235-453c-a69f-8d0fdaac47fe,Pearce Discretionary Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,rejected
+c0afdb67-a71f-40ba-b987-33c836c125ef,Stevenson Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+58452bbb-d8c3-4200-8093-faef15c78a16,Lee SIPP,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+29f723cf-17b6-4c6e-8d83-105f7a6719cd,Rogers Pension Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,pending
+6f58b0b5-8e86-4405-aad8-6f00097465f0,Kelly Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,approved
+8512c3e2-a1b6-49f6-b6bd-e78f495a226d,Thornton Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,rejected
+159be41c-fb27-4c4d-b555-0516c54ccbf3,Jenkins Family Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,approved
+75e827d5-8758-4dc9-b2bf-b0e3ccf13a06,Stanley Settlement,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,pending
+74965b88-e17b-434a-aed5-c776dcb11517,Williams Pension Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+cfd26740-d022-478b-a6b6-1c51aeadc243,Davies Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+9d5c0712-b321-4e31-a513-61974a933790,Lewis Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+79c51d96-12ff-4888-a107-b6c31e084f8c,James Holdings Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,pending
+356d9bf5-8e68-4753-bcab-89e3a00793a5,Hunt Pension Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,rejected
+422fe320-4be5-4a53-9133-62f02dc89802,Newman Pension Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+97bff899-9be8-4e12-a09a-9dd74cf2c6fc,Slater SIPP,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,rejected
+8adef7b2-ccf0-46eb-bcd0-c019dd602689,Abbott Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,expired
+8b04ef04-7153-4bcf-a337-fbf58bd8c7d7,Adams Capital Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,approved
+b15bd2ba-a258-4ae0-bb4e-c7fc1d4d3726,Bibi Investments Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,rejected
+1b88dbac-20c6-47d3-9f33-2965b375258c,Green Investment Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,approved
+a5e09f07-4eb0-40db-9116-6e3e76dbca75,Watson Pension Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,expired
+24550f26-26e3-422f-962c-bac66216342c,Henry Capital Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,rejected
+9a74aa25-2255-4fd7-9cd2-0b87631a4253,Kemp Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,approved
+076a21b7-014d-4464-bee5-34382a28e8f2,Forster Discretionary Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,pending
+49adee6b-b1a1-470d-9ee8-9a70207f8053,Kennedy SIPP,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+78c73134-576d-4579-88b5-2fdc56801fb5,Parker Settlement,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,rejected
+7ab66988-40d4-4d20-862e-688669b05e5e,Robinson Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,expired
+0a6f002d-c207-47ed-84a7-8ee6a95b05b8,Talbot SIPP,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+e7f8c8f7-c555-4d33-bec1-fa18756231b0,Read Personal Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,expired
+51ddaf55-2449-4212-a042-d1e93c1300c8,Murphy Family Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,expired
+bca12089-363c-40d8-8951-a217061fbce6,Shah Investment Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,approved
+31413fe9-04b3-49d9-8c58-d35ff43fca61,Allen Investment Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,approved
+d430aa1f-dd26-4e1f-b77f-d382a9a346fb,Edwards Family Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,approved
+d482dc58-3eda-4d78-9849-b38b98ccf1e1,Cooper Family Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,approved
+cdf51097-7ba8-460c-99a0-92430fffae3f,Matthews Discretionary Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,approved
+d3e69d29-e9ba-441e-9d97-0229899f9a9e,Kennedy Holdings Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,pending
+3b0b5eab-f1c0-452d-8ef2-2412655e6131,Holmes SIPP,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,expired
+7d9b8e3a-5012-4bbe-8cef-73fffd1cd084,Lawrence Holdings Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,approved
+c6ea113b-8877-48c2-b774-d0881ed54ed1,Taylor Investment Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,pending
+01059d7b-b230-4d98-9bc9-804f6ec69159,Young Capital Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,pending
+e3ae7812-604d-45e8-96e3-cedd7bb38602,Marsh Holdings Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,approved
+d83da712-0da4-4db7-bd03-64a6c020fb9d,Lloyd Discretionary Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,approved
+0da91f4f-3a8f-4d8a-844c-363cdbbe6f99,Roberts Investment Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,approved
+833f061a-b23d-4dcc-af64-f2fcc53e910c,Booth Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,approved
+d8ee9f9e-6607-42e2-b5ca-b47af674db79,Hall Settlement,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,approved
+02572f2f-d57d-4ba6-94b3-73c363fc7a75,Bevan SIPP,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+072ac1e7-24fe-48cc-b482-1815f3223017,Bell Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+333bec9e-fb18-487d-8b28-9ef6ec1368a6,O'Neill Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+c1c3a5fc-c9dd-4194-afa6-15c3c99f38b3,Browne Capital Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,pending
+fd2fab55-f713-4f0d-8438-5650be215a47,Hall Settlement,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,approved
+35ebc687-ec82-4348-b0b3-f12bf21639f1,Hill Family Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,rejected
+3a3d2c8b-af8f-465f-a71e-4e9deb6b7316,Moore Retirement Fund,79c50ef2-324d-473a-8d38-ac37c87188a6,pension_fund,approved
+ec0c302d-5da8-4316-aea8-f90a99f531e4,Stephens Investment Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,rejected
+5268f5f2-27c2-4d3c-beb1-1040fd6949a8,Mitchell Family Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,pending
+a145df4f-301a-43a1-8fc8-d0a53538264a,Williams Family Trust,79c50ef2-324d-473a-8d38-ac37c87188a6,trust,expired
+aa2c9d50-2374-4717-b488-6d82624f48ef,Sharp Investments Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,expired
+f7a9b189-6955-49c6-ad9b-dc51065174e5,Norman Ltd,79c50ef2-324d-473a-8d38-ac37c87188a6,corporate,expired
+d521d427-97b7-4b7b-a15f-459194f182c4,Pugh Investment Account,79c50ef2-324d-473a-8d38-ac37c87188a6,individual,rejected
+9261a735-31a9-4bc4-8da6-d6dde760bd5b,Walker Pension Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,pending
+1d4ef5c3-f18d-4fce-9ac9-81795686b43a,Williams Settlement,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+d308748d-8e09-46a2-8117-7d11a554548d,Walsh Investment Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+9e809085-3dc6-46a6-9b02-712762b83271,Taylor Pension Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,approved
+ec11e231-8fb5-429f-8912-766a08dbb0da,Power Investments Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,pending
+804363a8-0e5b-40a7-8525-a7358ad5dd3e,Mitchell Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+cd883f02-35dc-4747-aca0-1b653cdf7cb4,Gray Retirement Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,expired
+c3c7f03b-d9bc-4120-a7f9-8d8dc09da164,White Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+5e857c39-6e63-40ac-b16f-76d8de8cb808,Hobbs Personal Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,rejected
+fc1d3ed2-49c7-4793-b713-59d36770dae2,Jones Capital Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,rejected
+86de87b3-627e-4cad-930b-a949ae45b5eb,Smith Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,rejected
+2260b490-8288-47fb-a2ab-0ea1772570ed,Williams Pension Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,approved
+177e986c-321c-44f6-9c12-f95ec3c6b83e,Edwards Investment Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+66763326-4937-4d7c-94b1-c42b5e523a74,Henry Settlement,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+ffc6edc8-de77-446c-82d9-9729271cf53b,Goodwin Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,expired
+bece97ef-0140-42bb-b681-27c0dd385646,Lawrence Capital Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,approved
+1f5306b6-0609-4339-9d3a-832d38d83fc5,Francis Settlement,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+4d1749eb-f578-4f65-af01-65c02f8aa512,Hayes Investment Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,expired
+912e6dbd-51bb-4cae-9d68-21236ad93b4a,Cooper Settlement,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+373f0b7e-4a6e-496c-a598-37773512be65,Gould Personal Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+209b8131-a8e9-4c13-8334-3efc9340458f,Stevens Investment Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+972e2db0-33fa-4ff4-9adc-db87fd4ba220,Allan Personal Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+232ba16d-ef55-4a0b-96d2-fbf28ae7dfbf,Butcher Capital Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,approved
+5e5f9fc7-ebfe-4f93-9bda-c9d4f4d53571,Hall Settlement,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,expired
+d7af0c90-92f5-46b3-b5cd-22e731fecd31,Farmer SIPP,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,expired
+139a50bd-51dd-4f18-b780-80461e4b7701,Lee Capital Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,expired
+0cb4155a-8730-4947-bba7-7dfa8ec04b4f,McCarthy Investment Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,pending
+d58115c3-3685-41fa-bfa2-9d7a0f53b125,Moran Retirement Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,approved
+0eb5ad26-6d66-4b19-91da-60ddb43a2ca4,Harding Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+dab9bbe0-2ebd-4f36-8d0d-e323033accfa,Brown Pension Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,rejected
+18e2ded4-4415-4781-8bd8-912c1f3f7604,Shaw Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,expired
+8b5d41e7-0f5b-42cd-8480-2bc034287464,Allen Settlement,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,expired
+a4f27159-5f22-4556-8a41-568db06ce241,Jones Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+8846dd3b-6785-4cb3-b6a5-6f7959105eea,Hewitt Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+be26aeb9-d9ea-4efa-b697-dd1976d3284e,Burns Pension Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,expired
+4bc53733-7d28-4b00-9cfa-99ffb0ed6bd6,Black Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,approved
+2a2c99a7-dcce-4336-8b57-9a8106834da5,Norman Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+6dd8696b-e3e8-4190-99a3-cb6154ea18c4,Lee Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,rejected
+249412ea-138e-46f7-a9da-9cbf9b160e2c,Powell Holdings Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,rejected
+39f92213-cf19-499a-9d2c-d6bfad2e36da,Hunter Investments Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,rejected
+6fe924c6-995b-4ae9-815e-287e136e65ec,Roberts Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,approved
+375987c3-e100-4580-8cc2-de501693fc6b,Bartlett Holdings Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,pending
+0ec401d8-6080-483a-be65-ff5e8d30f63c,Jones Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+f02aac26-9807-461b-a435-2b52465ecff0,Sharpe Personal Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+e9cd1c4e-2bd4-41ab-8e09-32e029023bc8,Jones Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,pending
+918a3cb3-2776-4dfb-842d-3bc884ad82ed,McCarthy Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+9402fd13-366c-4040-9085-6bb8c168e20a,King Family Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,approved
+594a02d3-3a71-4a23-a88e-a7aa87985742,Roberts SIPP,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,approved
+0d6cbb0e-7a69-4c0a-89ab-73a7e6f8568f,Wood Investment Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+af710cfd-1225-4a40-a186-981f9656ece4,Gray Settlement,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,pending
+89f4919f-9668-497c-b12b-bacd5f6a86a7,Bell Investment Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,pending
+3544a574-a050-4f99-9d25-6dba8b900a81,Robinson Ltd,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,corporate,expired
+bc00d5fa-110e-4532-86e9-25e865ec2701,Wilkinson Discretionary Trust,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,trust,expired
+5f6c7249-6b0b-43ac-8159-09a03f2aaeed,Walker Personal Account,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,individual,approved
+4801b93a-f2f9-4e23-b8b8-fa074710a113,Wright Retirement Fund,00ce42a4-8b51-4cdd-9ca3-9bff9a87b056,pension_fund,expired
+dcf86c23-e1ff-4342-854d-92d414f4fb41,Adams Investment Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,expired
+e7bde83c-2aa7-4979-a083-3f56ea80c6d3,Short Pension Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+57ee7397-71b0-4298-8fc9-d9354db453c5,Rowe Settlement,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+8ef1b083-9731-441b-8dbd-ea834c16c611,Taylor Personal Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,approved
+b3f6f7e4-7e46-434b-b5de-c02649ab67b4,Clayton Discretionary Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,pending
+7a786733-9012-42d3-8134-a91be1a03edc,Smith Discretionary Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,pending
+f495c674-e848-4a3b-a7ba-0f92b4136793,Mills Pension Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,rejected
+bde96e69-d51d-4a43-945a-74dabde75deb,Murphy Personal Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,approved
+fffcf9a0-2be9-49c6-b797-2fb11bd19dff,Haynes Pension Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+12edf046-006c-458d-8091-e1ec6d419766,Shaw Discretionary Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+d5d190f3-bee5-4459-9b2e-8a10e027efe9,White SIPP,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+ed5d0553-b60d-4c24-b6fb-d186d46fb06a,Watson Discretionary Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+b213c4f3-1e07-4e69-bdc7-f4a335c3ce81,Oliver Discretionary Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+bfcec424-4b19-43c6-859e-6a13e8a07ae4,Lee Pension Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+95ae7677-82bd-4bb1-a43f-da786381d477,Jones Personal Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,approved
+0687c60f-c687-447e-8f4b-58861b96f6a0,Morris Investment Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,rejected
+52c29701-f53e-4538-b5c2-7aae67d0172a,Barnett Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,pending
+abb2bf30-6e5d-4b26-9eff-8fb209658822,Watson Settlement,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+910a8c58-3a54-4685-b435-f7c201480205,Wilson Retirement Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,rejected
+714302d2-4989-4753-9633-83432cc3a47a,Rees SIPP,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+4fd42e04-a3f0-4ffd-9418-8aa1ddf6fffc,Andrews Settlement,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+604fb3b2-dc35-4ce9-81b4-9f04fbeb1a59,Thomas Family Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,pending
+b5ce6399-9b7e-4cc8-bc66-116cdcc27050,Holland Holdings Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,expired
+331441e2-fc95-4091-8f8a-5514abac9e34,Smith Pension Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,rejected
+3f593645-7fe9-42c8-b7a4-cc7ed028b7b2,Bryant Investment Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,rejected
+6a4149c6-d6c7-4f92-a3c0-c7d8df34a48b,Johnson Family Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,rejected
+94f16dac-1798-4be0-b2e2-548529841792,Smith Settlement,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+e3a30512-180c-41a1-b76d-6a1efc56efc1,Jones SIPP,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,rejected
+c11a8b4b-ed3a-4255-8fa3-a9bb6a659587,Clark Investment Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,approved
+1a406bc6-bf1c-470d-825f-225cf9dd916c,May Investments Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,expired
+20cd7872-e719-4094-ac4c-f245b930915a,Hall Discretionary Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+c31f6c7e-98ee-48d5-a38a-135ee0cd371e,Smith Personal Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,rejected
+0a1de7c2-94ea-4938-a096-e323376ffd0c,Connolly Capital Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,approved
+72fc3c9c-b69e-4171-bee5-4c4b80901c72,Butler Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,approved
+b91fa72f-f750-47b9-a994-9e2c8a518fcf,Robson Capital Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,approved
+92dfb62b-5526-4e99-93b9-2e9615804511,Edwards Retirement Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+485848db-573f-4d48-b10a-45fc17f5352d,Hobbs Discretionary Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,expired
+9c759ceb-ac55-4f94-87f6-aaaa71492bde,O'Brien Settlement,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,pending
+4be7a92c-e1a5-4511-ad39-b5f9a3fb07ea,Kemp Personal Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,approved
+0f65e6c9-10be-422e-9a1c-8e57849d6da5,Whitehead Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,expired
+1dd9ea42-5646-446e-a93f-8dd4b99ebc8f,Murray Investment Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,approved
+4b05ac64-1627-401e-8213-591deba896de,Allen Retirement Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,pending
+3f11c21a-1044-492a-bd99-da643929d67a,Walker Retirement Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+26b21722-d6b3-4927-852a-e6dc89af3f32,Patel Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,approved
+f53afb6e-6a11-4b7b-accb-758ed014bad7,Howarth Pension Fund,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+eac38e82-c58e-4e46-a80a-d883b51c62ea,Ryan SIPP,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,expired
+6314124f-82f0-48fc-acdb-bd04e571856b,Wright Family Trust,7461962f-aa90-4a34-a23e-6960a8b5104a,trust,approved
+956230b8-d153-408d-9b3a-719ee23eb6ed,Burke SIPP,7461962f-aa90-4a34-a23e-6960a8b5104a,pension_fund,approved
+478da3a1-0fc1-4976-86b7-6767723a3a02,Smith Personal Account,7461962f-aa90-4a34-a23e-6960a8b5104a,individual,approved
+a9f5e485-9425-4cd0-8de2-69a1d5d3f37d,Harrison Holdings Ltd,7461962f-aa90-4a34-a23e-6960a8b5104a,corporate,rejected
+48105830-5629-4c76-9734-949f1193935a,Atkins Discretionary Trust,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,approved
+54d1e874-e41e-492e-92b9-e040270ee9f2,Richardson Personal Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,approved
+3e0cf050-8831-41ca-bccf-accb0077d572,Nelson Pension Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+26ad4c95-8ec5-4ae8-a2de-6b1b233a9934,Coles SIPP,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,expired
+97d43fb6-4630-4c00-9b05-0e9086de33c4,Armstrong Investments Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,approved
+304108cb-f99b-48d1-80d7-620efa5c21bd,Thomas SIPP,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+0ac97588-a5d5-4a0d-a72a-8b4b5e3e39c6,Kent Pension Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+641744cb-1846-4a51-8fbf-3bb1dad3725e,Adams Investment Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,pending
+f29e7f6a-1ca1-48f1-9b07-67f2a66380e1,Rees SIPP,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+4a1a34ab-f670-429d-a3dc-b0e1cdaaf1fd,Miah Retirement Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+9063a272-eeef-474a-94a8-a30488c40ced,Brown Pension Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+08f3e077-2fe4-49b7-9ded-a24c87ca3313,Burton Capital Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,rejected
+adc06626-ad85-468d-bebd-fafb3187d33b,Jones Family Trust,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,approved
+0b282fe1-d48a-431a-aea4-c811fb1512a7,Williams Personal Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,approved
+2a7e2f74-0014-4096-977c-0e7dd979c8f7,Evans SIPP,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+f112d69d-1c01-4c1b-adfa-776105b31a4f,Norman Retirement Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,expired
+03107c1a-cb49-472e-ac4f-99f051f47a79,Nicholls Family Trust,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,approved
+4257e9da-18f0-4588-b07c-c338f3404ef4,Gould Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,pending
+2ca8eaa1-d6ab-4ed7-95d6-e1d1196adfa8,Noble Personal Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,rejected
+86d6a8f5-6e9f-4818-a73d-26f9627894dd,Bishop Discretionary Trust,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,expired
+6a053be6-063a-46db-87c0-f977c5525288,Brooks Holdings Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,approved
+3ae29107-4348-4586-80ad-8ac1d7f2e544,Richards Investments Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,approved
+4a3d477a-b98b-4d45-8d77-be206197d52c,Bell Holdings Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,rejected
+60e9cb3f-7b9f-4071-9ea9-19c309778ba2,Russell Personal Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,rejected
+c4b94f2f-c810-428d-86f6-ace1ee97099a,Hall Retirement Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,rejected
+f882a406-56d2-4388-8921-13a5807d1042,Mason SIPP,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,pending
+a2679a29-736d-468a-9378-45fe9593516b,Wright Settlement,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,approved
+46ebb43c-1508-43bf-a8ae-034f9c1bdaad,Stanley Capital Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,approved
+8b9ec948-a245-405c-9cd9-f8ca8a30910d,Smith Retirement Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,expired
+c332a363-e04b-44a9-ba63-cf45d0f9809e,McDonald Discretionary Trust,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,pending
+8a480b7a-c7c3-4ebe-962b-c8cd28e1c90d,White Investment Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,pending
+d819a934-49bc-4270-9cf9-92b96257a41e,Price Investment Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,approved
+78165714-edd9-4eea-a1a3-e0dbaba56752,Banks Pension Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+d3215cf6-defb-465c-a0ca-9222dcbc0d4e,Pearce Discretionary Trust,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,approved
+87489c3f-725c-4da5-904d-2599f326d36f,King Investment Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,approved
+8b28afd4-b6ab-46a2-9b91-e82ea9597898,Holt Investment Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,rejected
+351e973a-8618-4748-a9d9-476cf0fefad5,Hughes Investments Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,pending
+65beda38-725f-4a3f-9629-c9d5ac6764f8,Rose SIPP,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,approved
+4d802321-3496-4951-b7ae-bf2f4105cd69,Jones Investment Account,7c6b66c1-9890-42a4-9fb7-761c8049ade4,individual,approved
+99e64602-00b2-4b91-8fbe-2f33f8c9faac,Evans Settlement,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,approved
+8805552d-edd7-4985-bae5-4154ae6990fb,Smith Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,approved
+dc4f6fef-6af7-400a-b291-80dbf03e9f78,White Retirement Fund,7c6b66c1-9890-42a4-9fb7-761c8049ade4,pension_fund,pending
+d1284beb-c0e1-4993-a0d9-acb524896689,Anderson Investments Ltd,7c6b66c1-9890-42a4-9fb7-761c8049ade4,corporate,approved
+da702158-dcf8-42d1-8c74-db09d6f3f436,Shaw Discretionary Trust,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,approved
+01966f70-b24e-4fb0-a86f-c714816b4c77,Humphreys Settlement,7c6b66c1-9890-42a4-9fb7-761c8049ade4,trust,pending
+260d1a50-47b5-4ff6-87b5-6a0e1cee82f3,Lewis Investment Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,approved
+0d97cc3e-14ab-4c7b-b896-821713b10656,Bates Family Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,pending
+ec917921-7252-4318-a173-67d1db00a0a4,Smith Retirement Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+59571621-b974-4a1b-a53f-2ed8022c41eb,Stevenson Investments Ltd,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,corporate,approved
+32612fed-c7e9-4e43-84a7-d24707c05fca,Duffy Investments Ltd,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,corporate,approved
+8072fbb2-1f94-4348-a1ee-a9d2fd0bd99c,Smith Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,pending
+c5a72218-2a86-43f5-b8f0-73fc85955970,Jones Investment Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,pending
+ae03737c-deb5-420d-83ca-5fe5c27071aa,Ellis SIPP,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,rejected
+dce9edc1-f83b-4099-aa8d-932bb46cfcd0,Parkin Family Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,expired
+0a5a4cff-f60f-4a2c-b6c2-8c8fda78bb3c,Brown Investment Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,pending
+8b32b3ee-fd7a-404a-a8de-7996c38bae9e,Harris Family Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,approved
+6202ed97-ce5f-4b55-82d4-5713e714380e,Ahmed Family Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,approved
+b17edbf2-62c9-43c0-be39-0f00dd29f8b6,Smith Discretionary Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,approved
+2cab8b64-faab-4c3d-9f34-52ec806e9fd8,Adams Holdings Ltd,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,corporate,approved
+1abbd437-1999-4bc2-9423-af8a33617349,Connolly Investment Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,rejected
+f184d1dd-e10f-48f9-ba44-f264b435aa7d,Fisher Personal Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,expired
+04362c45-5d86-48b1-a120-0e9ec96342da,Ward Settlement,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,approved
+c20f1d5e-6b37-4c39-884d-77d059c12ede,Turner Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+b521297a-8faf-43bc-aa07-193ea4cf447a,Walton Holdings Ltd,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,corporate,expired
+4610d863-c5a1-4eed-9323-9698ea749a10,Parsons Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+bcd4d877-1f9c-43b7-b3db-c6ea7f9d0295,Price Settlement,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,expired
+d51ce005-afac-4b12-8c4a-f5092b78e7ce,Parkes Capital Ltd,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,corporate,pending
+655a9546-6507-4169-a08c-cb4b04404a04,Wilson Settlement,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,rejected
+28d44352-c39c-4bea-bb80-7aea5ee18d4f,Atkinson Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,pending
+2a34925b-2aaa-4c8b-bcd9-e84340062efe,Saunders Investments Ltd,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,corporate,rejected
+e633539d-e0fe-4000-b33c-0c57c3e51008,Reid Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+48cb9cd2-0d04-4cea-835f-442258ad1cc2,Watson Retirement Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,rejected
+2c0e7945-5329-4c77-b086-3942fa6e9a63,Marshall Discretionary Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,pending
+6740f2f6-dd43-43dc-9047-f4e4650ec038,Bates Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,rejected
+188849bc-4ef7-42a7-b3ef-b58b63e5730d,Hicks Holdings Ltd,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,corporate,rejected
+d99dfa8c-5f62-4036-b8f0-b7ddd75b6352,White Family Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,expired
+845710fd-9e67-4332-b034-7b932a1a3b8f,Wright Retirement Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,pending
+e916cbb9-753f-4229-938f-259efe24615f,Carter Personal Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,approved
+55f09b7f-1fb9-49f5-a701-f6075f490f6e,Anderson Personal Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,approved
+219e7ae1-1e46-4530-a243-2d3ff111cdbe,Robinson SIPP,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+7158bd93-d2b9-451f-8f4d-07f5a71b51b6,Lee Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+096f6f48-8e3b-46f2-977e-1f8551f02e64,Doyle Retirement Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+9c0acdf7-f827-4eea-888b-011b4997d178,Evans Pension Fund,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,pension_fund,approved
+096363d1-8da8-405e-bad6-b028ce971726,Stokes Family Trust,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,trust,approved
+6a4bbb8b-8232-4318-a242-130cf763765d,Walters Investment Account,009d2e3a-fdcd-4ffa-8915-fb8f9cff49e4,individual,approved
+04e828de-2bbe-45c4-bc46-c2174c473eca,Clarke Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+056fd789-f1e4-4c6e-a832-eb57de7f71bb,Thomas Family Trust,8bfe2d7b-041a-46e4-9c7f-648868307de5,trust,approved
+cf987c8e-bfbc-448d-90f1-821ea8174a8a,Holloway Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,rejected
+a448280d-7eab-4361-89a6-c84a984a5597,Harris SIPP,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,rejected
+f028701c-88b4-4fbb-baad-f1a3ea347c2b,Curtis Capital Ltd,8bfe2d7b-041a-46e4-9c7f-648868307de5,corporate,approved
+a6e85c2b-0717-42e0-86b2-a79eea6e24be,Dawson Personal Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+49a56c16-a892-498a-8b3d-e9d6d1bfb1ea,Mitchell Family Trust,8bfe2d7b-041a-46e4-9c7f-648868307de5,trust,rejected
+7b4341a2-65ba-49be-80eb-1f4ad3471763,Webb Capital Ltd,8bfe2d7b-041a-46e4-9c7f-648868307de5,corporate,approved
+f11b408c-e895-43b5-8b8d-b790e06d610f,Brown Family Trust,8bfe2d7b-041a-46e4-9c7f-648868307de5,trust,approved
+beafd022-934c-4b3f-9c03-386e509b7829,Kirby Personal Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+be182e43-9acb-4991-b230-8a6e25dd9125,Jones SIPP,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,rejected
+4b7bd44d-9d06-431d-960d-d8fcd4277dbb,Cook Pension Fund,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,approved
+37c4aa65-1a99-4681-a1a2-86b8e903e984,Arnold SIPP,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,pending
+0128f15d-5bb0-419b-b599-8ebe7efc5310,Smith Personal Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,expired
+db597899-cb54-4ff6-a088-8f0207c09f40,Taylor Investments Ltd,8bfe2d7b-041a-46e4-9c7f-648868307de5,corporate,approved
+c925f4a3-dfe1-4bae-ae46-28afefeb0b82,Clark Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+b139b9f2-7199-46bc-a183-056bb319e901,Collins Pension Fund,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,expired
+f7a3370e-fca6-47de-a1fa-8a3b8e7406af,Hughes Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+76a6aa33-583f-4556-8053-f5530310af60,Mellor Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,rejected
+da64e96c-5742-4447-b133-9ac9b8080d58,Holmes Pension Fund,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,expired
+1e050b51-c09f-4fda-a68f-fe2db7f71b7a,Hayes Retirement Fund,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,approved
+fb1d28f1-658c-41dc-8cfc-80093a7a4ffb,Barker Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,rejected
+d8e777d2-3f94-40e4-ad75-cb023513c89a,Wells Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+88f1d976-6df6-48ea-b130-a45f1db01ade,Cunningham Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+ec0e909d-0f22-47ac-8472-55c73918a716,Smith Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,pending
+99a7ef4c-e2fa-4d85-8e4e-be0fba91cd4f,Bevan Settlement,8bfe2d7b-041a-46e4-9c7f-648868307de5,trust,approved
+6badaff2-917e-49eb-b7fa-5884c9c166bf,Sanderson SIPP,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,approved
+8fa8724d-6f38-475f-84f4-976c7f0e1f7e,Anderson Holdings Ltd,8bfe2d7b-041a-46e4-9c7f-648868307de5,corporate,approved
+6daaf322-f3a5-4738-8c51-cbab438eba2d,Hurst Pension Fund,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,approved
+60b1b7fb-2716-4a8f-a940-41d0a99dc861,Russell Ltd,8bfe2d7b-041a-46e4-9c7f-648868307de5,corporate,rejected
+03dd4d56-df9f-4d3e-afbd-b51f8af2a1c4,Palmer Ltd,8bfe2d7b-041a-46e4-9c7f-648868307de5,corporate,approved
+a5c6b9a7-1bba-40a8-a33d-92b8876db0f2,Walker Settlement,8bfe2d7b-041a-46e4-9c7f-648868307de5,trust,approved
+7e3b8458-8454-4c90-a280-25ee13e0bbe1,Jordan Retirement Fund,8bfe2d7b-041a-46e4-9c7f-648868307de5,pension_fund,approved
+fb9f0b06-30a6-47b5-9a12-527a2a03af10,Fox Investments Ltd,8bfe2d7b-041a-46e4-9c7f-648868307de5,corporate,approved
+8b7534fa-b443-40f0-af83-f711f7e431ea,Mahmood Investment Account,8bfe2d7b-041a-46e4-9c7f-648868307de5,individual,approved
+7f0a947a-b05d-4c8f-910f-3b5c56a1fcad,Pearce Investment Account,85581e80-3fa0-46ac-9438-85df07abd128,individual,approved
+477a3fca-5083-4c6a-b7c1-a934f3c7604c,Howard SIPP,85581e80-3fa0-46ac-9438-85df07abd128,pension_fund,approved
+5de04b67-8551-40f3-a2b4-7f68770c447e,Hunt Retirement Fund,85581e80-3fa0-46ac-9438-85df07abd128,pension_fund,approved
+931158e2-b4bd-4e39-9abf-8e43abe5b052,Gibson SIPP,85581e80-3fa0-46ac-9438-85df07abd128,pension_fund,approved
+a7b98a7d-f880-4e1d-b3ef-a2f66da9d964,Carter Settlement,85581e80-3fa0-46ac-9438-85df07abd128,trust,approved
+d8ca1aa5-851b-4b30-8a5e-1675d3231d97,Johnson Investment Account,85581e80-3fa0-46ac-9438-85df07abd128,individual,approved
+3e780eaf-f07a-4618-ba30-a140498e88fb,Pritchard SIPP,85581e80-3fa0-46ac-9438-85df07abd128,pension_fund,rejected
+74d2be4a-2ff3-47bb-a829-6af9ad370fa9,Francis Investments Ltd,85581e80-3fa0-46ac-9438-85df07abd128,corporate,approved
+4715493e-3e65-45ef-88ea-d222793268fd,Smith Personal Account,85581e80-3fa0-46ac-9438-85df07abd128,individual,approved
+55a1a6f3-74b5-4697-b7e8-e706f9f6a61e,Fisher Discretionary Trust,85581e80-3fa0-46ac-9438-85df07abd128,trust,approved
+3c67a67d-a7d5-49d6-945d-76a57dbb0732,Pope Pension Fund,85581e80-3fa0-46ac-9438-85df07abd128,pension_fund,expired
+823bff4a-6308-4e12-b08a-46834043002d,Hanson Retirement Fund,85581e80-3fa0-46ac-9438-85df07abd128,pension_fund,approved
+d59c534e-1aff-4575-b0d5-aa81e4ce2f32,Conway Investment Account,4c0360ad-cd78-4635-b3d9-b151eb23663d,individual,pending
+0e72a701-2f59-4267-8566-ec4431d994c1,Jones Retirement Fund,4c0360ad-cd78-4635-b3d9-b151eb23663d,pension_fund,expired
+ccae7733-f7ad-46d5-a4ce-9cc2cc21034d,Higgins Personal Account,4c0360ad-cd78-4635-b3d9-b151eb23663d,individual,expired
+65620864-8999-4c33-9c9c-28105a18bc81,Barber Retirement Fund,4c0360ad-cd78-4635-b3d9-b151eb23663d,pension_fund,pending
+fc77dee5-85c2-4ed7-b8da-0de4c93ee80c,Bird Ltd,4c0360ad-cd78-4635-b3d9-b151eb23663d,corporate,approved
+281d9c49-df3f-4bec-9dc7-5929b5843fd8,Taylor Pension Fund,4c0360ad-cd78-4635-b3d9-b151eb23663d,pension_fund,approved
+b7f0819f-3d05-4dec-bd40-a6307a23125a,Hammond Personal Account,4c0360ad-cd78-4635-b3d9-b151eb23663d,individual,rejected
+42bd2923-7232-41c5-8dfa-96f79f507aea,Barnes Discretionary Trust,4c0360ad-cd78-4635-b3d9-b151eb23663d,trust,approved
+83690587-66c9-45a2-87b1-64b41f8bfa74,Pritchard Personal Account,4c0360ad-cd78-4635-b3d9-b151eb23663d,individual,expired
+5d685bfd-6b1a-47cb-aa56-e0fa5f085ce0,James Retirement Fund,4c0360ad-cd78-4635-b3d9-b151eb23663d,pension_fund,approved
+a2093315-ca3b-4e33-bc4f-2c81abfafe1b,Wright Pension Fund,6ec4d299-dd92-4489-90d5-b8fbde704fee,pension_fund,pending
+167707ec-7197-4368-8b31-f7d6f5c931ee,Roberts Investments Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,approved
+107ae99e-622a-407c-87db-14c5ef9b8057,Chapman Settlement,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,approved
+054b0a4e-17fa-400d-9b3e-28af3fae71bb,Clark Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,approved
+a9ff8a9d-7c0f-4959-a8c4-a297c71858ef,Wilson Capital Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,pending
+792c4fab-2e9d-49ed-81c9-199aacfe84e6,Bray SIPP,6ec4d299-dd92-4489-90d5-b8fbde704fee,pension_fund,approved
+5a54ef33-75b4-4298-ba9b-5b44fccb98d9,Phillips Discretionary Trust,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,expired
+4c0db862-df59-4e9c-b408-95fad460c1b7,Sanders Pension Fund,6ec4d299-dd92-4489-90d5-b8fbde704fee,pension_fund,pending
+c3dfa5f8-ad92-4e78-b8a1-9d99ff5bf462,Howard Settlement,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,approved
+4484d774-42e5-407c-abab-bf23dd0769f6,James Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,approved
+b95925cc-4c3e-4da1-8c29-86c3a42ccb98,Wright Investment Account,6ec4d299-dd92-4489-90d5-b8fbde704fee,individual,approved
+4bcd6360-679c-4c16-8732-dbf215a90118,West Pension Fund,6ec4d299-dd92-4489-90d5-b8fbde704fee,pension_fund,rejected
+84c8ce75-b542-4db9-b087-a848352e7562,Woodward Settlement,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,approved
+a9c05a34-102a-4a55-86ca-06803d251f66,Williams Investment Account,6ec4d299-dd92-4489-90d5-b8fbde704fee,individual,approved
+6c14369f-b601-4d91-92d4-1d162005ecf3,Jones Holdings Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,rejected
+98dafddf-713c-45ed-9c46-a830d687437c,Rogers Settlement,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,approved
+78528880-2ed4-4b84-87da-e2994655643d,Ahmed Personal Account,6ec4d299-dd92-4489-90d5-b8fbde704fee,individual,rejected
+08b3fd1b-4647-48b9-ac9a-5ebea193198a,Dixon Holdings Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,rejected
+e8072dc0-7cbb-464a-a1a3-5424ef243998,Powell Pension Fund,6ec4d299-dd92-4489-90d5-b8fbde704fee,pension_fund,approved
+27256855-e003-49ab-9686-1a5203df8ba2,Williams Discretionary Trust,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,rejected
+7afc9dc2-0ee6-4d75-8715-6d2e0d226bdb,Anderson Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,approved
+a72d73b5-e9a2-4e06-b0f8-840901f183d6,Ball Discretionary Trust,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,expired
+481256ca-15f3-4814-ad83-f4176da247ef,Hunter SIPP,6ec4d299-dd92-4489-90d5-b8fbde704fee,pension_fund,approved
+7b910547-3edf-44d7-9328-5cd0c2199dca,Butler SIPP,6ec4d299-dd92-4489-90d5-b8fbde704fee,pension_fund,approved
+3bce4e37-4215-47ed-a639-b4de2dabbd81,Payne Investments Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,expired
+e64315cd-8329-4e89-a821-d9e2494416f8,Wilson Investment Account,6ec4d299-dd92-4489-90d5-b8fbde704fee,individual,approved
+c0a9526c-bc91-4aca-b381-97e5e415a881,Davies Family Trust,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,rejected
+9d391d20-f439-44f2-8711-bcc8f46175a1,Taylor Holdings Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,approved
+1e7db431-62c7-47d6-b347-920bd2bde91e,Fox Personal Account,6ec4d299-dd92-4489-90d5-b8fbde704fee,individual,pending
+d8bc5e39-c38d-4eeb-97ee-ffa803a36962,Brown Investments Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,approved
+fd0d0863-0d77-417e-8f62-24165e60a572,Miller Investments Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,expired
+59700c76-3271-4f16-8993-96908177933d,Perry Investments Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,pending
+3cd37b9f-a81e-4009-b7ab-ef93641d3dd5,Allen Family Trust,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,approved
+3156a073-b3d5-4517-ab9a-0da9a5e99178,Miller Investments Ltd,6ec4d299-dd92-4489-90d5-b8fbde704fee,corporate,approved
+358f665b-8244-4847-a97c-ba527c379d80,Jarvis Settlement,6ec4d299-dd92-4489-90d5-b8fbde704fee,trust,pending
+4b0e7388-48f3-42b6-b1db-eabe3ff8f620,Reynolds Personal Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,pending
+2c076a53-bcfc-44df-9f1a-ab1936975337,Williams Holdings Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,expired
+27e2ea8c-ad18-4fad-937b-65306ec0a20b,White Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+f75f331f-3f5a-460a-a466-a6bacae7b20c,Turner Personal Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+ab8fc99f-7157-40d3-b25a-9ddd250116ce,Williams Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+3077278a-b09b-40cc-bd7e-8fd46bed9704,Bradley SIPP,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,expired
+9fbabf60-78b6-4e18-a439-efdba953aaf0,Morgan Investment Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,expired
+4224bab3-c4a7-4b05-ac4d-d8d7f4e19d9f,Jones Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+527c6951-9e39-4bd7-8a45-881b483eeccd,Miles Pension Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,rejected
+96cbf79c-19ae-4829-aefb-c0a8c092d5d1,Potter Retirement Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+3498c958-c594-4200-9332-838959e6fbcb,Webb Personal Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+03e43848-5817-4674-a229-8705a92e981b,Walsh Retirement Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+99efd0ca-190a-4dee-bd87-92c8cc71bd61,Ali Pension Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+75b82a23-5fd2-45d5-8cc8-640b47a7837e,Hughes Investments Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,rejected
+63ead49d-f7c7-4995-b149-732750f6e9c2,Adams Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,rejected
+40251803-c342-4284-97f1-316783d522a4,Matthews Discretionary Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+671b0de7-e5fa-4ae3-8d8c-62f4f6aa1e86,Carter Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,pending
+c7f2b6b4-da48-42e5-9090-6249d792e6a0,Sims Investment Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+e88ab2e4-65ff-41b5-a4a4-96f57102afcf,Nicholson Pension Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+d7960858-b57e-435f-b8e7-3eb7bafe8a08,Smith Pension Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+07559634-9df9-434e-b8f5-23d631c33b4f,Clark Personal Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+1221c67c-889d-4e7f-baee-98d7edbb5548,Clements SIPP,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+759ab944-8a3e-4a3e-9c15-81ee4d4a7064,Taylor Holdings Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,rejected
+c8440eef-cb4c-4564-a7ee-5290d6f105e4,Mason Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,expired
+46df6b65-3236-4e4e-b072-46537490e43b,Winter Family Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,rejected
+5d5f44bb-3da0-4a15-b77d-5fa39959ee41,Taylor Capital Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,pending
+ce3234b3-68dc-4045-bda8-eb526143011e,Hall Retirement Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+6c3cd4bb-f7f9-4b92-887d-70fbc75ea62b,Holloway Pension Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+d701c34e-6c1d-45dd-8cb1-9be55eb6e15a,Joyce SIPP,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+55f2013e-fc3b-4486-bbac-d37572132022,Johnson Holdings Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,pending
+eea23ad1-36fa-441c-8dab-1728b7b9f036,Morley Family Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+406ad311-bd27-4a2d-aa98-57a210b23639,Williams Discretionary Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,pending
+01bb1093-a0c7-4926-a1ea-62e7e2e24f81,Barnett Retirement Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,pending
+d9cdde9b-8c5a-46da-b706-f5178e154584,Phillips Personal Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+b0001831-ebb2-4700-ba1a-6de78bd086de,Clarke Investments Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,expired
+a08f705b-02fa-4798-b8c3-d5124957158c,Barber Discretionary Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+7d24ab7c-47b5-411b-91ed-e30561c4f0b4,Wallace Investment Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+b1a6cd15-e488-419f-b75d-fc98be1368f3,Jones Investments Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,pending
+e6437290-ed33-4fa3-90c1-e18efc5899b6,Day Family Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+8bc7bb8e-bee6-4484-a9fc-f66ae3f68ea1,Yates SIPP,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+d695807c-2b54-413d-9c2a-b5e5ac28a8fa,Roberts Personal Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+fb29ab5e-5919-48f8-8ce5-6937c0e251a3,Ellis Retirement Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,rejected
+82378f64-61dd-431f-8ba2-4b2c715e512e,Kemp Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+ca15e166-5c62-4220-86e4-578972783a6c,Brown Holdings Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,pending
+3b9a9c25-dc22-43b4-8537-d40cb6a1f096,Miles SIPP,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,approved
+f46114e7-3a9b-413e-bfb8-c61bf69fe7e7,Wilson Personal Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+9f59feff-c93b-4e1a-a555-70fecba03df2,Gray Discretionary Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,pending
+9f84201e-45cf-402e-ba7e-346c7ab0bc75,Clark Pension Fund,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,pending
+fdacf8bc-6cc0-4f81-9673-02cd2538f213,May Investments Ltd,b7499d6b-07f6-4eb5-b249-734839ce7d36,corporate,pending
+deb40a1d-3258-4c31-86cf-6775c8d240e3,Miah Family Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+b4b3d6b4-bd5e-41bb-a384-ac96f9eede63,Dyer Settlement,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,approved
+6537869e-86ba-4922-9f5d-aa027fdec0f6,Begum SIPP,b7499d6b-07f6-4eb5-b249-734839ce7d36,pension_fund,pending
+f05ec8fb-04b6-4419-b55e-10b65275909e,Harris Discretionary Trust,b7499d6b-07f6-4eb5-b249-734839ce7d36,trust,rejected
+c899c173-9b93-48ae-b62b-b62627054dfb,Cole Investment Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,approved
+cf65f095-573d-4ed6-92d4-3b52c9433bc3,Allan Investment Account,b7499d6b-07f6-4eb5-b249-734839ce7d36,individual,pending
+923105c6-2c2a-41c6-89eb-46e681022d8c,Jones Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,rejected
+c9415236-7d9b-449f-b8d4-fa5e8f2884ed,Jones Investment Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,approved
+4754992b-a056-4d69-8617-a9f03f17b980,Murphy Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,pending
+9f231529-2dc9-431d-a8d7-1577a02d9529,Daly Pension Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,pending
+a0edb14e-f86d-471a-8cdf-22358f09b34a,Bates Pension Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,rejected
+61a4acfa-5b71-4ca9-9896-36fe9168fd01,Foster Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,pending
+445cfe49-97eb-40f2-96ae-60410e153814,Morris Personal Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,approved
+7bc45921-191c-44e1-ba60-99c2fbc60a85,Khan Retirement Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,approved
+79977203-7b00-4c50-a1d6-4de4e80e5055,Rees Capital Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,expired
+9e5427de-2283-4ce1-bb14-57619859b3ab,Clements Capital Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,pending
+86b9d75a-17dc-4ec4-a3ae-6b05f8b40fbd,Davis SIPP,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,expired
+a54447d3-d57a-4168-b66e-4bdd353146e3,Cook Personal Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,pending
+0e425f1e-458a-4dfb-a66b-6a93fa4df546,Greenwood Investments Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,expired
+44f604f5-ef1d-44aa-a412-0966a353ee9b,Phillips SIPP,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,approved
+cda0204e-7b0c-47e9-8a7c-b5fcd16623ad,Harper Family Trust,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+05010387-d4df-4391-adea-93a886e7b1bc,Wood Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+de926be4-2f15-4100-a3c0-87e12d46bb49,Smart Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+f63bbc01-18ab-4289-af86-9e83c537dd33,Jackson Holdings Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,approved
+14bbb042-31cd-4916-b9ee-5bdd1a922356,Knowles Family Trust,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+32322cd0-e270-4d5b-814a-2736327fdfe4,Taylor Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+03d67ef1-5a2b-4248-8518-5563c4223609,Williams Retirement Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,approved
+6a93a8f6-6f2b-4259-ab5c-2e31d756bb37,Jones Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,rejected
+f8b9bd5b-4b11-4804-835e-19be4cc2b680,Ross Discretionary Trust,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+9990b880-804c-4bc4-bbf2-7ebe00b343c1,Miller Retirement Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,rejected
+42c660d0-8cb6-443a-a7bf-300d14e06fa2,Patel Family Trust,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+18d0db1b-d209-4f47-b3ea-7b5c1e8542e9,Begum Investment Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,expired
+91e05ed5-3d00-4762-a69c-1bf2c26a19df,Taylor Investment Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,approved
+1ab497ed-813b-4b65-9adc-ebc1ca936fb3,Robinson Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+2978c93c-e3d6-4c44-a2af-57077d268693,Smith Holdings Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,rejected
+e40d03f7-5873-4446-93ed-642e0bb08888,Cooper Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,expired
+5fe3c982-fe64-4bae-b619-1a0195dc51dc,Davis Family Trust,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+12658e39-a9d7-4a5a-b59e-e3a8e9406411,Craig Holdings Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,approved
+68751b02-db56-4bb2-9000-230cdb6b0d76,Stephens Holdings Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,approved
+3f5f100c-4511-4995-9535-fbf6add9efd9,Jones Investment Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,approved
+1a826bac-4a04-4a82-af17-7a87e10b319e,Johnston Pension Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,expired
+d968f150-3616-4d78-95c2-09e612408535,Palmer Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,pending
+4d65d876-88f1-4692-8bdb-4210d26d9de1,Scott Capital Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,expired
+119db33e-8fb7-43d0-8cbb-34f399d936a3,James Retirement Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,expired
+5242c033-95b4-446c-b60d-53a83d7674dd,Riley Investments Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,approved
+11b20ab5-649b-4252-8f73-30308c1250da,Wyatt Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+fefdecb0-71ee-44ba-bcc8-636d202758ce,Arnold Personal Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,pending
+3997236a-bd23-4e90-8caf-312eb43a1e57,Clarke Personal Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,approved
+c5d083e4-d215-498a-82ca-113dbd9d1420,Arnold Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,rejected
+32b64d99-ca5f-4071-87c7-0c5fee90dc4b,Ross Retirement Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,approved
+fb127e91-3af4-4e5d-b513-3e060d002140,Spencer Family Trust,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,approved
+62c6403c-b28b-45f8-b64a-2bb6de4cdfa8,Brady Settlement,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,pending
+fa5800a5-74d9-49c1-a343-b38a927c62f1,Spencer Investment Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,approved
+38f62629-c61f-4b1c-9549-58d96046af86,Walker SIPP,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,pending
+1e9c5b17-d065-4757-83c1-a4de7f38d4d2,Brown Pension Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,rejected
+134ebb50-0ff0-4e4f-bd71-620ca6fae2f2,Connor Retirement Fund,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,approved
+91055b5d-52c4-44d3-960d-46653c9f9b5b,Carr Investment Account,b8fb60b7-8a2d-43e1-85a1-a006783875e5,individual,approved
+72d7bc3f-e498-496d-90f8-afe6a0bfa6eb,Morgan SIPP,b8fb60b7-8a2d-43e1-85a1-a006783875e5,pension_fund,approved
+6c27ea55-c955-4cdb-8de6-5f1f7ffe2f75,Tucker Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,expired
+0f1e15ce-a537-44be-8acc-bd7f93fbd131,Porter Discretionary Trust,b8fb60b7-8a2d-43e1-85a1-a006783875e5,trust,pending
+dccd1366-edb9-4fed-8a87-821d7050d316,Pritchard Holdings Ltd,b8fb60b7-8a2d-43e1-85a1-a006783875e5,corporate,pending

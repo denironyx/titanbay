@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: platform
+    schema: raw
+    tables:
+      - name: platform_investors
+        description: Investors registered on the Titanbay platform
+      - name: platform_entities
+        description: Investing entities through which investors hold commitments
+      - name: platform_partners
+        description: Partner organisations Titanbay works with
+      - name: platform_relationship_managers
+        description: Relationship managers employed by partner organisations
+      - name: platform_fund_closes
+        description: Scheduled fund closes and their associated capital commitments

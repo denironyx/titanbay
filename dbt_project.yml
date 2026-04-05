@@ -1,0 +1,37 @@
+name: 'titanbay'
+
+config-version: 2
+version: '1.0.0'
+
+profile: 'titanbay'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+
+packages-install-path: "dbt_pkgs"
+
+clean-targets:
+  - "target"
+  - "dbt_pkgs"
+  - "logs"
+
+require-dbt-version: [">=1.7.0", "<2.0.0"]
+
+seeds:
+  titanbay:
+    +schema: raw
+
+models:
+  titanbay:
+    staging:
+      +materialized: view
+      +schema: staging
+    intermediate:
+      +materialized: view
+      +schema: intermediate
+    marts:
+      +materialized: table
+      +schema: analytics

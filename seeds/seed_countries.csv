@@ -1,0 +1,251 @@
+common_name,official_name,cca2,cca3,region,subregion,primary_timezone
+Afghanistan,Islamic Republic of Afghanistan,AF,AFG,Asia,Southern Asia,UTC+04:30
+Albania,Republic of Albania,AL,ALB,Europe,Southeast Europe,UTC+01:00
+Algeria,People's Democratic Republic of Algeria,DZ,DZA,Africa,Northern Africa,UTC+01:00
+American Samoa,American Samoa,AS,ASM,Oceania,Polynesia,UTC-11:00
+Andorra,Principality of Andorra,AD,AND,Europe,Southern Europe,UTC+01:00
+Angola,Republic of Angola,AO,AGO,Africa,Middle Africa,UTC+01:00
+Anguilla,Anguilla,AI,AIA,Americas,Caribbean,UTC-04:00
+Antarctica,Antarctica,AQ,ATA,Antarctic,,UTC-03:00
+Antigua and Barbuda,Antigua and Barbuda,AG,ATG,Americas,Caribbean,UTC-04:00
+Argentina,Argentine Republic,AR,ARG,Americas,South America,UTC-03:00
+Armenia,Republic of Armenia,AM,ARM,Asia,Western Asia,UTC+04:00
+Aruba,Aruba,AW,ABW,Americas,Caribbean,UTC-04:00
+Australia,Commonwealth of Australia,AU,AUS,Oceania,Australia and New Zealand,UTC+05:00
+Austria,Republic of Austria,AT,AUT,Europe,Central Europe,UTC+01:00
+Azerbaijan,Republic of Azerbaijan,AZ,AZE,Asia,Western Asia,UTC+04:00
+Bahamas,Commonwealth of the Bahamas,BS,BHS,Americas,Caribbean,UTC-05:00
+Bahrain,Kingdom of Bahrain,BH,BHR,Asia,Western Asia,UTC+03:00
+Bangladesh,People's Republic of Bangladesh,BD,BGD,Asia,Southern Asia,UTC+06:00
+Barbados,Barbados,BB,BRB,Americas,Caribbean,UTC-04:00
+Belarus,Republic of Belarus,BY,BLR,Europe,Eastern Europe,UTC+03:00
+Belgium,Kingdom of Belgium,BE,BEL,Europe,Western Europe,UTC+01:00
+Belize,Belize,BZ,BLZ,Americas,Central America,UTC-06:00
+Benin,Republic of Benin,BJ,BEN,Africa,Western Africa,UTC+01:00
+Bermuda,Bermuda,BM,BMU,Americas,North America,UTC-04:00
+Bhutan,Kingdom of Bhutan,BT,BTN,Asia,Southern Asia,UTC+06:00
+Bolivia,Plurinational State of Bolivia,BO,BOL,Americas,South America,UTC-04:00
+Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,Europe,Southeast Europe,UTC+01:00
+Botswana,Republic of Botswana,BW,BWA,Africa,Southern Africa,UTC+02:00
+Bouvet Island,Bouvet Island,BV,BVT,Antarctic,,UTC+01:00
+Brazil,Federative Republic of Brazil,BR,BRA,Americas,South America,UTC-05:00
+British Indian Ocean Territory,British Indian Ocean Territory,IO,IOT,Africa,Eastern Africa,UTC+06:00
+British Virgin Islands,Virgin Islands,VG,VGB,Americas,Caribbean,UTC-04:00
+Brunei,"Nation of Brunei, Abode of Peace",BN,BRN,Asia,South-Eastern Asia,UTC+08:00
+Bulgaria,Republic of Bulgaria,BG,BGR,Europe,Southeast Europe,UTC+02:00
+Burkina Faso,Burkina Faso,BF,BFA,Africa,Western Africa,UTC
+Burundi,Republic of Burundi,BI,BDI,Africa,Eastern Africa,UTC+02:00
+Cambodia,Kingdom of Cambodia,KH,KHM,Asia,South-Eastern Asia,UTC+07:00
+Cameroon,Republic of Cameroon,CM,CMR,Africa,Middle Africa,UTC+01:00
+Canada,Canada,CA,CAN,Americas,North America,UTC-08:00
+Cape Verde,Republic of Cabo Verde,CV,CPV,Africa,Western Africa,UTC-01:00
+Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",BQ,BES,Americas,Caribbean,UTC-04:00
+Cayman Islands,Cayman Islands,KY,CYM,Americas,Caribbean,UTC-05:00
+Central African Republic,Central African Republic,CF,CAF,Africa,Middle Africa,UTC+01:00
+Chad,Republic of Chad,TD,TCD,Africa,Middle Africa,UTC+01:00
+Chile,Republic of Chile,CL,CHL,Americas,South America,UTC-06:00
+China,People's Republic of China,CN,CHN,Asia,Eastern Asia,UTC+08:00
+Christmas Island,Territory of Christmas Island,CX,CXR,Oceania,Australia and New Zealand,UTC+07:00
+Cocos (Keeling) Islands,Territory of the Cocos (Keeling) Islands,CC,CCK,Oceania,Australia and New Zealand,UTC+06:30
+Colombia,Republic of Colombia,CO,COL,Americas,South America,UTC-05:00
+Comoros,Union of the Comoros,KM,COM,Africa,Eastern Africa,UTC+03:00
+Cook Islands,Cook Islands,CK,COK,Oceania,Polynesia,UTC-10:00
+Costa Rica,Republic of Costa Rica,CR,CRI,Americas,Central America,UTC-06:00
+Croatia,Republic of Croatia,HR,HRV,Europe,Southeast Europe,UTC+01:00
+Cuba,Republic of Cuba,CU,CUB,Americas,Caribbean,UTC-05:00
+Curaçao,Country of Curaçao,CW,CUW,Americas,Caribbean,UTC-04:00
+Cyprus,Republic of Cyprus,CY,CYP,Europe,Southern Europe,UTC+02:00
+Czechia,Czech Republic,CZ,CZE,Europe,Central Europe,UTC+01:00
+DR Congo,Democratic Republic of the Congo,CD,COD,Africa,Middle Africa,UTC+01:00
+Denmark,Kingdom of Denmark,DK,DNK,Europe,Northern Europe,UTC-04:00
+Djibouti,Republic of Djibouti,DJ,DJI,Africa,Eastern Africa,UTC+03:00
+Dominica,Commonwealth of Dominica,DM,DMA,Americas,Caribbean,UTC-04:00
+Dominican Republic,Dominican Republic,DO,DOM,Americas,Caribbean,UTC-04:00
+Ecuador,Republic of Ecuador,EC,ECU,Americas,South America,UTC-06:00
+Egypt,Arab Republic of Egypt,EG,EGY,Africa,Northern Africa,UTC+02:00
+El Salvador,Republic of El Salvador,SV,SLV,Americas,Central America,UTC-06:00
+Equatorial Guinea,Republic of Equatorial Guinea,GQ,GNQ,Africa,Middle Africa,UTC+01:00
+Eritrea,State of Eritrea,ER,ERI,Africa,Eastern Africa,UTC+03:00
+Estonia,Republic of Estonia,EE,EST,Europe,Northern Europe,UTC+02:00
+Eswatini,Kingdom of Eswatini,SZ,SWZ,Africa,Southern Africa,UTC+02:00
+Ethiopia,Federal Democratic Republic of Ethiopia,ET,ETH,Africa,Eastern Africa,UTC+03:00
+Falkland Islands,Falkland Islands,FK,FLK,Americas,South America,UTC-04:00
+Faroe Islands,Faroe Islands,FO,FRO,Europe,Northern Europe,UTC+00:00
+Fiji,Republic of Fiji,FJ,FJI,Oceania,Melanesia,UTC+12:00
+Finland,Republic of Finland,FI,FIN,Europe,Northern Europe,UTC+02:00
+France,French Republic,FR,FRA,Europe,Western Europe,UTC-10:00
+French Guiana,Guiana,GF,GUF,Americas,South America,UTC-03:00
+French Polynesia,French Polynesia,PF,PYF,Oceania,Polynesia,UTC-10:00
+French Southern and Antarctic Lands,Territory of the French Southern and Antarctic Lands,TF,ATF,Antarctic,,UTC+05:00
+Gabon,Gabonese Republic,GA,GAB,Africa,Middle Africa,UTC+01:00
+Gambia,Republic of the Gambia,GM,GMB,Africa,Western Africa,UTC+00:00
+Georgia,Georgia,GE,GEO,Asia,Western Asia,UTC+04:00
+Germany,Federal Republic of Germany,DE,DEU,Europe,Western Europe,UTC+01:00
+Ghana,Republic of Ghana,GH,GHA,Africa,Western Africa,UTC
+Gibraltar,Gibraltar,GI,GIB,Europe,Southern Europe,UTC+01:00
+Greece,Hellenic Republic,GR,GRC,Europe,Southern Europe,UTC+02:00
+Greenland,Greenland,GL,GRL,Americas,North America,UTC-04:00
+Grenada,Grenada,GD,GRD,Americas,Caribbean,UTC-04:00
+Guadeloupe,Guadeloupe,GP,GLP,Americas,Caribbean,UTC-04:00
+Guam,Guam,GU,GUM,Oceania,Micronesia,UTC+10:00
+Guatemala,Republic of Guatemala,GT,GTM,Americas,Central America,UTC-06:00
+Guernsey,Bailiwick of Guernsey,GG,GGY,Europe,Northern Europe,UTC+00:00
+Guinea,Republic of Guinea,GN,GIN,Africa,Western Africa,UTC
+Guinea-Bissau,Republic of Guinea-Bissau,GW,GNB,Africa,Western Africa,UTC
+Guyana,Co-operative Republic of Guyana,GY,GUY,Americas,South America,UTC-04:00
+Haiti,Republic of Haiti,HT,HTI,Americas,Caribbean,UTC-05:00
+Heard Island and McDonald Islands,Heard Island and McDonald Islands,HM,HMD,Antarctic,,UTC+05:00
+Honduras,Republic of Honduras,HN,HND,Americas,Central America,UTC-06:00
+Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,HK,HKG,Asia,Eastern Asia,UTC+08:00
+Hungary,Hungary,HU,HUN,Europe,Central Europe,UTC+01:00
+Iceland,Iceland,IS,ISL,Europe,Northern Europe,UTC
+India,Republic of India,IN,IND,Asia,Southern Asia,UTC+05:30
+Indonesia,Republic of Indonesia,ID,IDN,Asia,South-Eastern Asia,UTC+07:00
+Iran,Islamic Republic of Iran,IR,IRN,Asia,Southern Asia,UTC+03:30
+Iraq,Republic of Iraq,IQ,IRQ,Asia,Western Asia,UTC+03:00
+Ireland,Republic of Ireland,IE,IRL,Europe,Northern Europe,UTC
+Isle of Man,Isle of Man,IM,IMN,Europe,Northern Europe,UTC+00:00
+Israel,State of Israel,IL,ISR,Asia,Western Asia,UTC+02:00
+Italy,Italian Republic,IT,ITA,Europe,Southern Europe,UTC+01:00
+Ivory Coast,Republic of Côte d'Ivoire,CI,CIV,Africa,Western Africa,UTC
+Jamaica,Jamaica,JM,JAM,Americas,Caribbean,UTC-05:00
+Japan,Japan,JP,JPN,Asia,Eastern Asia,UTC+09:00
+Jersey,Bailiwick of Jersey,JE,JEY,Europe,Northern Europe,UTC+01:00
+Jordan,Hashemite Kingdom of Jordan,JO,JOR,Asia,Western Asia,UTC+03:00
+Kazakhstan,Republic of Kazakhstan,KZ,KAZ,Asia,Central Asia,UTC+05:00
+Kenya,Republic of Kenya,KE,KEN,Africa,Eastern Africa,UTC+03:00
+Kiribati,Independent and Sovereign Republic of Kiribati,KI,KIR,Oceania,Micronesia,UTC+12:00
+Kosovo,Republic of Kosovo,XK,UNK,Europe,Southeast Europe,UTC+01:00
+Kuwait,State of Kuwait,KW,KWT,Asia,Western Asia,UTC+03:00
+Kyrgyzstan,Kyrgyz Republic,KG,KGZ,Asia,Central Asia,UTC+06:00
+Laos,Lao People's Democratic Republic,LA,LAO,Asia,South-Eastern Asia,UTC+07:00
+Latvia,Republic of Latvia,LV,LVA,Europe,Northern Europe,UTC+02:00
+Lebanon,Lebanese Republic,LB,LBN,Asia,Western Asia,UTC+02:00
+Lesotho,Kingdom of Lesotho,LS,LSO,Africa,Southern Africa,UTC+02:00
+Liberia,Republic of Liberia,LR,LBR,Africa,Western Africa,UTC
+Libya,State of Libya,LY,LBY,Africa,Northern Africa,UTC+01:00
+Liechtenstein,Principality of Liechtenstein,LI,LIE,Europe,Western Europe,UTC+01:00
+Lithuania,Republic of Lithuania,LT,LTU,Europe,Northern Europe,UTC+02:00
+Luxembourg,Grand Duchy of Luxembourg,LU,LUX,Europe,Western Europe,UTC+01:00
+Macau,Macao Special Administrative Region of the People's Republic of China,MO,MAC,Asia,Eastern Asia,UTC+08:00
+Madagascar,Republic of Madagascar,MG,MDG,Africa,Eastern Africa,UTC+03:00
+Malawi,Republic of Malawi,MW,MWI,Africa,Eastern Africa,UTC+02:00
+Malaysia,Malaysia,MY,MYS,Asia,South-Eastern Asia,UTC+08:00
+Maldives,Republic of the Maldives,MV,MDV,Asia,Southern Asia,UTC+05:00
+Mali,Republic of Mali,ML,MLI,Africa,Western Africa,UTC
+Malta,Republic of Malta,MT,MLT,Europe,Southern Europe,UTC+01:00
+Marshall Islands,Republic of the Marshall Islands,MH,MHL,Oceania,Micronesia,UTC+12:00
+Martinique,Martinique,MQ,MTQ,Americas,Caribbean,UTC-04:00
+Mauritania,Islamic Republic of Mauritania,MR,MRT,Africa,Western Africa,UTC
+Mauritius,Republic of Mauritius,MU,MUS,Africa,Eastern Africa,UTC+04:00
+Mayotte,Department of Mayotte,YT,MYT,Africa,Eastern Africa,UTC+03:00
+Mexico,United Mexican States,MX,MEX,Americas,North America,UTC-08:00
+Micronesia,Federated States of Micronesia,FM,FSM,Oceania,Micronesia,UTC+10:00
+Moldova,Republic of Moldova,MD,MDA,Europe,Eastern Europe,UTC+02:00
+Monaco,Principality of Monaco,MC,MCO,Europe,Western Europe,UTC+01:00
+Mongolia,Mongolia,MN,MNG,Asia,Eastern Asia,UTC+07:00
+Montenegro,Montenegro,ME,MNE,Europe,Southeast Europe,UTC+01:00
+Montserrat,Montserrat,MS,MSR,Americas,Caribbean,UTC-04:00
+Morocco,Kingdom of Morocco,MA,MAR,Africa,Northern Africa,UTC
+Mozambique,Republic of Mozambique,MZ,MOZ,Africa,Eastern Africa,UTC+02:00
+Myanmar,Republic of the Union of Myanmar,MM,MMR,Asia,South-Eastern Asia,UTC+06:30
+Namibia,Republic of Namibia,NA,NAM,Africa,Southern Africa,UTC+01:00
+Nauru,Republic of Nauru,NR,NRU,Oceania,Micronesia,UTC+12:00
+Nepal,Federal Democratic Republic of Nepal,NP,NPL,Asia,Southern Asia,UTC+05:45
+Netherlands,Kingdom of the Netherlands,NL,NLD,Europe,Western Europe,UTC+01:00
+New Caledonia,New Caledonia,NC,NCL,Oceania,Melanesia,UTC+11:00
+New Zealand,New Zealand,NZ,NZL,Oceania,Australia and New Zealand,UTC-11:00
+Nicaragua,Republic of Nicaragua,NI,NIC,Americas,Central America,UTC-06:00
+Niger,Republic of Niger,NE,NER,Africa,Western Africa,UTC+01:00
+Nigeria,Federal Republic of Nigeria,NG,NGA,Africa,Western Africa,UTC+01:00
+Niue,Niue,NU,NIU,Oceania,Polynesia,UTC-11:00
+Norfolk Island,Territory of Norfolk Island,NF,NFK,Oceania,Australia and New Zealand,UTC+11:30
+North Korea,Democratic People's Republic of Korea,KP,PRK,Asia,Eastern Asia,UTC+09:00
+North Macedonia,Republic of North Macedonia,MK,MKD,Europe,Southeast Europe,UTC+01:00
+Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,MP,MNP,Oceania,Micronesia,UTC+10:00
+Norway,Kingdom of Norway,NO,NOR,Europe,Northern Europe,UTC+01:00
+Oman,Sultanate of Oman,OM,OMN,Asia,Western Asia,UTC+04:00
+Pakistan,Islamic Republic of Pakistan,PK,PAK,Asia,Southern Asia,UTC+05:00
+Palau,Republic of Palau,PW,PLW,Oceania,Micronesia,UTC+09:00
+Palestine,State of Palestine,PS,PSE,Asia,Western Asia,UTC+02:00
+Panama,Republic of Panama,PA,PAN,Americas,Central America,UTC-05:00
+Papua New Guinea,Independent State of Papua New Guinea,PG,PNG,Oceania,Melanesia,UTC+10:00
+Paraguay,Republic of Paraguay,PY,PRY,Americas,South America,UTC-04:00
+Peru,Republic of Peru,PE,PER,Americas,South America,UTC-05:00
+Philippines,Republic of the Philippines,PH,PHL,Asia,South-Eastern Asia,UTC+08:00
+Pitcairn Islands,Pitcairn Group of Islands,PN,PCN,Oceania,Polynesia,UTC-08:00
+Poland,Republic of Poland,PL,POL,Europe,Central Europe,UTC+01:00
+Portugal,Portuguese Republic,PT,PRT,Europe,Southern Europe,UTC-01:00
+Puerto Rico,Commonwealth of Puerto Rico,PR,PRI,Americas,Caribbean,UTC-04:00
+Qatar,State of Qatar,QA,QAT,Asia,Western Asia,UTC+03:00
+Republic of the Congo,Republic of the Congo,CG,COG,Africa,Middle Africa,UTC+01:00
+Romania,Romania,RO,ROU,Europe,Southeast Europe,UTC+02:00
+Russia,Russian Federation,RU,RUS,Europe,Eastern Europe,UTC+03:00
+Rwanda,Republic of Rwanda,RW,RWA,Africa,Eastern Africa,UTC+02:00
+Réunion,Réunion Island,RE,REU,Africa,Eastern Africa,UTC+04:00
+Saint Barthélemy,Collectivity of Saint Barthélemy,BL,BLM,Americas,Caribbean,UTC-04:00
+"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,Western Africa,UTC+00:00
+Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,KN,KNA,Americas,Caribbean,UTC-04:00
+Saint Lucia,Saint Lucia,LC,LCA,Americas,Caribbean,UTC-04:00
+Saint Martin,Saint Martin,MF,MAF,Americas,Caribbean,UTC-04:00
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,Americas,North America,UTC-03:00
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,VC,VCT,Americas,Caribbean,UTC-04:00
+Samoa,Independent State of Samoa,WS,WSM,Oceania,Polynesia,UTC+13:00
+San Marino,Republic of San Marino,SM,SMR,Europe,Southern Europe,UTC+01:00
+Saudi Arabia,Kingdom of Saudi Arabia,SA,SAU,Asia,Western Asia,UTC+03:00
+Senegal,Republic of Senegal,SN,SEN,Africa,Western Africa,UTC
+Serbia,Republic of Serbia,RS,SRB,Europe,Southeast Europe,UTC+01:00
+Seychelles,Republic of Seychelles,SC,SYC,Africa,Eastern Africa,UTC+04:00
+Sierra Leone,Republic of Sierra Leone,SL,SLE,Africa,Western Africa,UTC
+Singapore,Republic of Singapore,SG,SGP,Asia,South-Eastern Asia,UTC+08:00
+Sint Maarten,Sint Maarten,SX,SXM,Americas,Caribbean,UTC-04:00
+Slovakia,Slovak Republic,SK,SVK,Europe,Central Europe,UTC+01:00
+Slovenia,Republic of Slovenia,SI,SVN,Europe,Central Europe,UTC+01:00
+Solomon Islands,Solomon Islands,SB,SLB,Oceania,Melanesia,UTC+11:00
+Somalia,Federal Republic of Somalia,SO,SOM,Africa,Eastern Africa,UTC+03:00
+South Africa,Republic of South Africa,ZA,ZAF,Africa,Southern Africa,UTC+02:00
+South Georgia,South Georgia and the South Sandwich Islands,GS,SGS,Antarctic,,UTC-02:00
+South Korea,Republic of Korea,KR,KOR,Asia,Eastern Asia,UTC+09:00
+South Sudan,Republic of South Sudan,SS,SSD,Africa,Middle Africa,UTC+03:00
+Spain,Kingdom of Spain,ES,ESP,Europe,Southern Europe,UTC
+Sri Lanka,Democratic Socialist Republic of Sri Lanka,LK,LKA,Asia,Southern Asia,UTC+05:30
+Sudan,Republic of the Sudan,SD,SDN,Africa,Northern Africa,UTC+03:00
+Suriname,Republic of Suriname,SR,SUR,Americas,South America,UTC-03:00
+Svalbard and Jan Mayen,Svalbard og Jan Mayen,SJ,SJM,Europe,Northern Europe,UTC+01:00
+Sweden,Kingdom of Sweden,SE,SWE,Europe,Northern Europe,UTC+01:00
+Switzerland,Swiss Confederation,CH,CHE,Europe,Western Europe,UTC+01:00
+Syria,Syrian Arab Republic,SY,SYR,Asia,Western Asia,UTC+02:00
+São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,ST,STP,Africa,Middle Africa,UTC
+Taiwan,Republic of China (Taiwan),TW,TWN,Asia,Eastern Asia,UTC+08:00
+Tajikistan,Republic of Tajikistan,TJ,TJK,Asia,Central Asia,UTC+05:00
+Tanzania,United Republic of Tanzania,TZ,TZA,Africa,Eastern Africa,UTC+03:00
+Thailand,Kingdom of Thailand,TH,THA,Asia,South-Eastern Asia,UTC+07:00
+Timor-Leste,Democratic Republic of Timor-Leste,TL,TLS,Asia,South-Eastern Asia,UTC+09:00
+Togo,Togolese Republic,TG,TGO,Africa,Western Africa,UTC
+Tokelau,Tokelau,TK,TKL,Oceania,Polynesia,UTC+13:00
+Tonga,Kingdom of Tonga,TO,TON,Oceania,Polynesia,UTC+13:00
+Trinidad and Tobago,Republic of Trinidad and Tobago,TT,TTO,Americas,Caribbean,UTC-04:00
+Tunisia,Tunisian Republic,TN,TUN,Africa,Northern Africa,UTC+01:00
+Turkey,Republic of Turkey,TR,TUR,Asia,Western Asia,UTC+03:00
+Turkmenistan,Turkmenistan,TM,TKM,Asia,Central Asia,UTC+05:00
+Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,Americas,Caribbean,UTC-04:00
+Tuvalu,Tuvalu,TV,TUV,Oceania,Polynesia,UTC+12:00
+Uganda,Republic of Uganda,UG,UGA,Africa,Eastern Africa,UTC+03:00
+Ukraine,Ukraine,UA,UKR,Europe,Eastern Europe,UTC+02:00
+United Arab Emirates,United Arab Emirates,AE,ARE,Asia,Western Asia,UTC+04:00
+United Kingdom,United Kingdom of Great Britain and Northern Ireland,GB,GBR,Europe,Northern Europe,UTC-08:00
+United States,United States of America,US,USA,Americas,North America,UTC-12:00
+United States Minor Outlying Islands,United States Minor Outlying Islands,UM,UMI,Americas,North America,UTC-11:00
+United States Virgin Islands,Virgin Islands of the United States,VI,VIR,Americas,Caribbean,UTC-04:00
+Uruguay,Oriental Republic of Uruguay,UY,URY,Americas,South America,UTC-03:00
+Uzbekistan,Republic of Uzbekistan,UZ,UZB,Asia,Central Asia,UTC+05:00
+Vanuatu,Republic of Vanuatu,VU,VUT,Oceania,Melanesia,UTC+11:00
+Vatican City,Vatican City State,VA,VAT,Europe,Southern Europe,UTC+01:00
+Venezuela,Bolivarian Republic of Venezuela,VE,VEN,Americas,South America,UTC-04:00
+Vietnam,Socialist Republic of Vietnam,VN,VNM,Asia,South-Eastern Asia,UTC+07:00
+Wallis and Futuna,Territory of the Wallis and Futuna Islands,WF,WLF,Oceania,Polynesia,UTC+12:00
+Western Sahara,Sahrawi Arab Democratic Republic,EH,ESH,Africa,Northern Africa,UTC+00:00
+Yemen,Republic of Yemen,YE,YEM,Asia,Western Asia,UTC+03:00
+Zambia,Republic of Zambia,ZM,ZMB,Africa,Eastern Africa,UTC+02:00
+Zimbabwe,Republic of Zimbabwe,ZW,ZWE,Africa,Southern Africa,UTC+02:00
+Åland Islands,Åland Islands,AX,ALA,Europe,Northern Europe,UTC+02:00

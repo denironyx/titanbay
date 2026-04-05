@@ -1,0 +1,77 @@
+version: 2
+
+models:
+  - name: int_ticket_requester_resolved
+    description: >
+      Identity resolution engine. Builds an enriched investor record
+      (investor + RM email/name) then matches tickets in a single pass:
+      investor email, RM email, or investor name. Every resolved ticket
+      maps to an investor_id. Resolution rate: ~95%.
+      Remaining ~5% are Titanbay IS staff (@titanbay.com) whose
+      requester_name does not match any known investor. One row per ticket.
+    columns:
+      - name: ticket_id
+        description: Primary key - unique ticket identifier
+        tests:
+          - unique
+          - not_null
+      - name: requester_type
+        description: >
+          'investor' = matched to a known investor (via email, RM email,
+          or name). 'unresolved' = no match found.
+        tests:
+          - accepted_values:
+              values: ['investor', 'unresolved']
+
+  - name: int_investor_entity_enriched
+    description: >
+      Investors enriched with entity and partner context.
+      Establishes the investor → entity → partner hierarchy that
+      underpins commitment attribution and partner-level analytics.
+      One row per investor.
+    columns:
+      - name: investor_id
+        description: Primary key
+        tests:
+          - unique
+          - not_null
+
+  - name: int_fund_close_commitments
+    description: >
+      Fund closes enriched with partner context. Provides the bridge
+      between capital commitments and originating partners, enabling
+      AUM-weighted analysis of fund close activity. One row per close.
+    columns:
+      - name: close_id
+        description: Primary key
+        tests:
+          - unique
+          - not_null
+
+  - name: int_country_resolved
+    description: >
+      Resolves free-text investor country names to ISO 3166-1 alpha-3
+      codes via a three-step waterfall: exact common name, exact official
+      name, and inline CASE WHEN fallback for aliases, accents,
+      parentheticals, and legacy names. No seed dependency for aliases —
+      all mappings are self-contained in the SQL.
+
+      Geography matters in PE because investor location determines
+      regulatory jurisdiction, tax treaty eligibility, timezone-aware
+      SLA measurement, and regional fundraising strategy.
+
+      The match_method column provides an audit trail for monitoring
+      resolution quality. One row per distinct source country name.
+    columns:
+      - name: source_country_name
+        description: Primary key - original country name from platform_investors
+        tests:
+          - unique
+          - not_null
+      - name: match_method
+        description: >
+          Which step resolved this name: common_name (exact), official_name
+          (exact), fallback (CASE WHEN), or unresolved.
+        tests:
+          - accepted_values:
+              values: ['common_name', 'official_name', 'fallback', 'unresolved']
