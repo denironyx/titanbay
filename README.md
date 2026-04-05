@@ -190,20 +190,6 @@ dbt run --select fct_support_tickets obt_ticket_analysis --full-refresh
 
 ## Data Quality Framework
 
-Five custom tests enforce data integrity beyond standard schema tests:
-
-| Test | What it catches | Remediation |
-|------|----------------|-------------|
-| `assert_country_resolution_coverage` | Any investor country that couldn't be resolved to an ISO code | Add the name using a CASE WHEN statement |
-| `assert_entity_resolution_coverage` | Ticket identity resolution dropping below 90% | Investigate upstream email data quality |
-| `assert_fct_ticket_grain` | Row count mismatch between fact and staging (grain explosion or lost rows) | Check join logic in fact model |
-| `assert_obt_grain_matches_fact` | OBT row count diverging from fact (dimension fan-out) | Check dimension join cardinality |
-| `assert_no_future_ticket_dates` | Tickets where `resolved_at < created_at` | Flag data entry error upstream |
-
-The country resolution test is particularly important: it **fails the build** if any country name is unresolved, forcing the team to curate the alias seed before deploying.
-
-This is a deliberate design choice, silent data loss in geography is worse than a failed build.
-
 ### Tests
 
 **Where to look:** `tests/`, `_intermediate_models.yml`, `_marts_models.yml`
@@ -220,7 +206,7 @@ Five custom tests enforce data integrity beyond standard schema tests:
 
 The country resolution test is particularly important: it **fails the build** if any country name is unresolved, forcing the team to curate the alias seed before deploying. This is a deliberate design choice, silent data loss in geography is worse than a failed build.
 
-**Schema level tests (in YAML):** `unique`, `not_null`, `accepted_values`, `relationships` (FK integrity), and `dbt_expectations` tests for value ranges (resolution_hours 0-8760, timezone offset -12 to +14, local hour 0-23), string lengths (ISO alpha-2 = 2, alpha-3 = 3), and value sets (priority, status, entity_type).
+**Schema level Unit tests (in YAML):** `unique`, `not_null`, `accepted_values`, `relationships` (FK integrity), and `dbt_expectations` tests for value ranges (resolution_hours 0-8760, timezone offset -12 to +14, local hour 0-23), string lengths (ISO alpha-2 = 2, alpha-3 = 3), and value sets (priority, status, entity_type).
 
 ---
 
@@ -349,9 +335,7 @@ The grain test for the OBT validates against the resolved subset of the fact tab
 
 5. **90% resolution threshold.** Current baseline is 95%. A drop below 90% signals an upstream data quality problem.
 
-6. **Window functions in OBT are partition-scoped.** `lifetime_ticket_count` and
-   `ticket_rank_for_investor` compute within the incremental partition only. Periodic
-   `--full-refresh` recomputes across all data.
+6. **Window functions in OBT are partition-scoped.** `lifetime_ticket_count` and  `ticket_rank_for_investor` compute within the incremental partition only. Periodic `--full-refresh` recomputes across all data.
 
 ---
 
