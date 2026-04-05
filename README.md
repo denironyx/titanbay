@@ -461,3 +461,9 @@ The ideal long-term fix is to **add a platform issued identifier to Freshdesk at
 For geography, the fix is to **replace the free-text country field with a constrained dropdown backed by the ISO 3166 reference list** at investor registration. This removes the entire country resolution, every investor would register with a valid alpha-3 code from day one.
 
 **Standardise the `partner_label` field in Freshdesk.** Replace the free-text field with a dropdown or auto-populated field mapped to `platform_partners.partner_id`. This eliminates the "Ashford" vs "Ashford WM" vs "Ashford Wealth Management" problem entirely.
+
+
+---
+
+Final Output
+![](./img/output.png)
