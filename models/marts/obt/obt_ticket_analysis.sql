@@ -9,10 +9,6 @@
        → investor_lifetime_ticket_count, is_repeat_investor, ticket_rank
        → Sliceable by partner, entity_type, geography, topic, priority
 
-    2. When will the IS team be under pressure?
-       → nearest_fund_close_name / days_to_nearest_close (partner-scoped)
-       → Close dates are known in advance — historical patterns forecast load
-
     Materialization: incremental (delete+insert by ticket_id).
     Date-partitioned via var('run_date').
 */
