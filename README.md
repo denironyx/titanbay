@@ -358,7 +358,7 @@ The grain test for the OBT validates against the resolved subset of the fact tab
 Claude (via Claude Code CLI) was used as a collaborative partner throughout:
 - **Data exploration**: profiling source data, identifying entity resolution challenges, country name mismatches.
 - **Implementation**: generating tests, code reviews and edge case implementation.
-- **Documentation**: structuring all docs with consistent references, proofreading, improving documentations and continous updates.
+- **Documentation**: structuring all docs with consistent references, proofreading, improving documentations, adding cleaner context to dbt models and enabling continous updates of documentations.
 
 
 ## What's Next (Recommendation)
