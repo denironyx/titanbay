@@ -228,8 +228,8 @@ The country resolution test is particularly important: it **fails the build** if
 - Should we staff support differently for APAC vs EMEA hours?
 
 ### Fund Close Intelligence
-- Does support volume spike before fund close deadlines? (days_to_nearest_close histogram)
-- Are high-priority tickets correlated with larger closes? (priority + nearest_close_committed_aum)
+- Does support volume spike before fund close deadlines? (days_to_close histogram)
+- Are high-priority tickets correlated with larger closes? (priority + close_committed_aum)
 - Which closes are operationally "expensive"? (ticket count within +/- 30 days of close)
 
 ### Geographic Strategy
